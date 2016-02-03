@@ -55,14 +55,14 @@
     <div class="content-switcher">
         <p class="brand-text">Color Options:</p>
         <ul class="header">
-            <li><a href="index.html#" onclick="setActiveStyleSheet('color1'); return false;" class="button color switch" style="background-color:#00bcd4"></a></li>
-            <li><a href="index.html#" onclick="setActiveStyleSheet('color2'); return false;" class="button color switch" style="background-color:#ff4081"></a></li>
-            <li><a href="index.html#" onclick="setActiveStyleSheet('color3'); return false;" class="button color switch" style="background-color:#C043D5"></a></li>
-            <li><a href="index.html#" onclick="setActiveStyleSheet('color4'); return false;" class="button color switch" style="background-color:#73D077"></a></li>
-            <li><a href="index.html#" onclick="setActiveStyleSheet('color5'); return false;" class="button color switch" style="background-color:#FE7448"></a></li>
-            <li><a href="index.html#" onclick="setActiveStyleSheet('color6'); return false;" class="button color switch" style="background-color:#1ABBAC"></a></li>
-            <li><a href="index.html#" onclick="setActiveStyleSheet('color7'); return false;" class="button color switch" style="background-color:#EAB82E"></a></li>
-            <li><a href="index.html#" onclick="setActiveStyleSheet('color8'); return false;" class="button color switch" style="background-color:#799CAC"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color1'); return false;" class="button color switch" style="background-color:#00bcd4"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color2'); return false;" class="button color switch" style="background-color:#ff4081"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color3'); return false;" class="button color switch" style="background-color:#C043D5"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color4'); return false;" class="button color switch" style="background-color:#73D077"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color5'); return false;" class="button color switch" style="background-color:#FE7448"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color6'); return false;" class="button color switch" style="background-color:#1ABBAC"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color7'); return false;" class="button color switch" style="background-color:#EAB82E"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color8'); return false;" class="button color switch" style="background-color:#799CAC"></a></li>
         </ul>
         <p class="brand-text">Menu Options:</p>
         <div class="menu-select" title="The menu will display in all devices">
@@ -106,14 +106,14 @@
                     <div class="nav-inner">
                         <nav class="primary-nav">
                             <div class="clearfix nav-wrapper">
-                                <a href="index.html#home" class="left brand-logo menu-smooth-scroll" data-section="#home"><img src="images/logo.png" alt="">
+                                <a href="materialx.html#home" class="left brand-logo menu-smooth-scroll" data-section="#home"><img src="images/logo.png" alt="">
                                 </a>
-                                <a href="index.html#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+                                <a href="materialx.html#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
                                 <ul class="right static-menu">
                                     <li class="search-form-li">
                                         <a id="initSearchIcon" class=""><i class="mdi-action-search"></i> </a>
                                         <div class="search-form-wrap hide">
-                                            <form action="index.html#" class="">
+                                            <form action="materialx.html#" class="">
                                                 <input type="search" class="search">
                                                 <button type="submit"><i class="mdi-action-search"></i>
                                                 </button>
@@ -121,7 +121,7 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <a class="dropdown-button blog-submenu-init" href="index.html#!" data-activates="dropdown1">
+                                        <a class="dropdown-button blog-submenu-init" href="materialx.html#!" data-activates="dropdown1">
                                             <i class="mdi-navigation-more-vert right"></i>
                                         </a>
                                     </li>
@@ -140,19 +140,19 @@
                                     </li><!-- mini profile end-->
 
 
-                                    <li><a href="index.html#about" data-section="#about" class="menu-smooth-scroll"><i class="fa fa-user fa-fw"></i>About Me</a>
+                                    <li><a href="materialx.html#about" data-section="#about" class="menu-smooth-scroll"><i class="fa fa-user fa-fw"></i>About Me</a>
                                     </li>
-                                    <li><a href="index.html#resume" data-section="#resume" class="menu-smooth-scroll"><i class="fa fa-file-text fa-fw"></i>Resume</a>
+                                    <li><a href="materialx.html#resume" data-section="#resume" class="menu-smooth-scroll"><i class="fa fa-file-text fa-fw"></i>Resume</a>
                                     </li>
-                                    <li><a href="index.html#portfolio" data-section="#portfolio" class="menu-smooth-scroll"><i class="fa fa-briefcase fa-fw"></i>Portfolio</a>
+                                    <li><a href="materialx.html#portfolio" data-section="#portfolio" class="menu-smooth-scroll"><i class="fa fa-briefcase fa-fw"></i>Portfolio</a>
                                     </li>
-                                    <li><a href="index.html#team" data-section="#team" class="menu-smooth-scroll"><i class="fa fa-users fa-fw"></i>Team</a>
+                                    <li><a href="materialx.html#team" data-section="#team" class="menu-smooth-scroll"><i class="fa fa-users fa-fw"></i>Team</a>
                                     </li>
-                                    <li><a href="index.html#testimonial" data-section="#testimonial" class="menu-smooth-scroll"><i class="fa fa-comments fa-fw"></i>Testimonial</a>
+                                    <li><a href="materialx.html#testimonial" data-section="#testimonial" class="menu-smooth-scroll"><i class="fa fa-comments fa-fw"></i>Testimonial</a>
                                     </li>
-                                    <li><a href="index.html#blog" data-section="#blog" class="menu-smooth-scroll"><i class="fa fa-pencil fa-fw"></i>Blog</a>
+                                    <li><a href="materialx.html#blog" data-section="#blog" class="menu-smooth-scroll"><i class="fa fa-pencil fa-fw"></i>Blog</a>
                                     </li>
-                                    <li><a href="index.html#contact" data-section="#contact" class="menu-smooth-scroll"><i class="fa fa-paper-plane fa-fw"></i>Contact</a>
+                                    <li><a href="materialx.html#contact" data-section="#contact" class="menu-smooth-scroll"><i class="fa fa-paper-plane fa-fw"></i>Contact</a>
                                     </li>
                                 </ul>
                                 <ul id="dropdown1" class="inline-menu submenu-ul dropdown-content">
@@ -185,7 +185,7 @@
                             <div class="center-align home-content">
                                 <h1 class="home-title">HI! I'm <span>John Doe</span></h1>
                                 <h2 class="home-subtitle">UX/UI Designer from Dhaka, Bangladesh</h2>
-                                <a href="index.html#contact" class="hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Hire Me <i class="mdi-content-send left"></i>
+                                <a href="materialx.html#contact" class="hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Hire Me <i class="mdi-content-send left"></i>
                                 </a>
                             </div>
                         </div>
@@ -196,7 +196,7 @@
             <div class="section-call-to-area">
                 <div class="container">
                     <div class="row">
-                        <a href="index.html#about" class="btn-floating btn-large button-middle call-to-about section-call-to-btn animated btn-up btn-hidden" data-section="#about">
+                        <a href="materialx.html#about" class="btn-floating btn-large button-middle call-to-about section-call-to-btn animated btn-up btn-hidden" data-section="#about">
                             <i class="mdi-navigation-expand-more"></i>
                         </a>
                     </div>
@@ -216,7 +216,7 @@
                     <div class="col-sm-12 col-md-4">
                         <div class="person-about">
                             <h3 class="about-subtitle">My Story</h3>
-                            <p>Hello, Iâ€™m a UI/UX Designer &amp; Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University. <br />
+                            <p>Hello, I’m a UI/UX Designer &amp; Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University. <br />
                                 And scrambled it to make a type specimen book. It has survived not only five centuries</p>
                             <a class="waves-effect waves-light btn-large brand-bg white-text"><i class="mdi-content-archive left"></i> Download Resume</a>
                         </div>
@@ -243,19 +243,19 @@
                         <div class="about-social">
                             <ul>
                                 <li>
-                                    <a href="index.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-facebook"></i></a>
+                                    <a href="materialx.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-facebook"></i></a>
                                 </li>
                                 <li>
-                                    <a href="index.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-twitter"></i></a>
+                                    <a href="materialx.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-twitter"></i></a>
                                 </li>
                                 <li>
-                                    <a href="index.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-google-plus"></i></a>
+                                    <a href="materialx.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-google-plus"></i></a>
                                 </li>
                                 <li>
-                                    <a href="index.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-linkedin"></i></a>
+                                    <a href="materialx.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-linkedin"></i></a>
                                 </li>
                                 <li>
-                                    <a href="index.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-pinterest"></i></a>
+                                    <a href="materialx.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-pinterest"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -776,15 +776,15 @@
                         <div class="col-sm-12">
                             <h2 class="title">PORTFOLIO</h2>
                             <ul class="inline-menu clearfix portfolio-category" id="portfolio-msnry-sort">
-                                <li class="active"><a href="index.html#" data-target="*">All</a>
+                                <li class="active"><a href="materialx.html#" data-target="*">All</a>
                                 </li>
-                                <li><a href="index.html#" data-target=".category-1">Art</a>
+                                <li><a href="materialx.html#" data-target=".category-1">Art</a>
                                 </li>
-                                <li><a href="index.html#" data-target=".category-2">Accessories</a>
+                                <li><a href="materialx.html#" data-target=".category-2">Accessories</a>
                                 </li>
-                                <li><a href="index.html#" data-target=".category-3">Design</a>
+                                <li><a href="materialx.html#" data-target=".category-3">Design</a>
                                 </li>
-                                <li><a href="index.html#" data-target=".category-4">Fashion</a>
+                                <li><a href="materialx.html#" data-target=".category-4">Fashion</a>
                                 </li>
                             </ul>
                         </div>
@@ -801,8 +801,8 @@
             </div>
 
             <div class="modal-footer">
-                <a href="index.html#" target="_blank" class="waves-effect btn-flat brand-text modal-action">Live Demo</a>
-                <a href="index.html#" class="waves-effect btn-flat brand-text modal-action modal-close">cancel</a>
+                <a href="materialx.html#" target="_blank" class="waves-effect btn-flat brand-text modal-action">Live Demo</a>
+                <a href="materialx.html#" class="waves-effect btn-flat brand-text modal-action modal-close">cancel</a>
             </div>
         </div>
 
@@ -814,7 +814,7 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-1 category-3">
-                                <a href="index.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#"> <!-- Portfolio pop-up content-->
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#"> <!-- Portfolio pop-up content-->
                                     <div class="protfolio-image">
                                         <img src="images/portfolio/pf1.jpg" alt="portfolio"> <!-- portfolio thumbnail-->
                                         <div class="protfolio-content waves-effect waves-block waves-light">
@@ -830,7 +830,7 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-2 category-1">
-                                <a href="index.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="images/portfolio/pf2.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
@@ -846,7 +846,7 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-1 category-2">
-                                <a href="index.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="images/portfolio/pf3.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
@@ -862,7 +862,7 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-3">
-                                <a href="index.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="images/portfolio/pf4.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
@@ -878,7 +878,7 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-1 category-3 category-4">
-                                <a href="index.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="images/portfolio/pf5.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
@@ -894,7 +894,7 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-2 category-4">
-                                <a href="index.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="images/portfolio/pf6.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
@@ -910,7 +910,7 @@
 
                         </ul>
                         <!-- portfolio load more button-->
-                        <a id="portfolio-item-loader" href="index.html#" class="btn-floating btn-large waves-effect waves-light brand-bg"><i class="mdi-content-add"></i></a>
+                        <a id="portfolio-item-loader" href="materialx.html#" class="btn-floating btn-large waves-effect waves-light brand-bg"><i class="mdi-content-add"></i></a>
                     </div>
                 </div>
             </div>
@@ -1164,7 +1164,7 @@
                                                     </div>
                                                     <div class="card-content">
                                                         <span class="card-title activator brand-text">Jonh Smith -</span>
-                                                        <a href="index.html#">CEO, Apple Inc</a>
+                                                        <a href="materialx.html#">CEO, Apple Inc</a>
                                                     </div>
                                                 </div>
                                             </div> <!-- ./single testimonial box -->
@@ -1178,7 +1178,7 @@
                                                     </div>
                                                     <div class="card-content">
                                                         <span class="card-title activator brand-text">Jonh Smith -</span>
-                                                        <a href="index.html#">CEO, Apple Inc</a>
+                                                        <a href="materialx.html#">CEO, Apple Inc</a>
                                                     </div>
                                                 </div>
                                             </div> <!-- ./single testimonial box -->
@@ -1192,7 +1192,7 @@
                                                     </div>
                                                     <div class="card-content">
                                                         <span class="card-title activator brand-text">Jonh Smith -</span>
-                                                        <a href="index.html#">CEO, Apple Inc</a>
+                                                        <a href="materialx.html#">CEO, Apple Inc</a>
                                                     </div>
                                                 </div>
                                             </div> <!-- ./single testimonial box -->
@@ -1206,7 +1206,7 @@
                                                     </div>
                                                     <div class="card-content">
                                                         <span class="card-title activator brand-text">Jonh Smith -</span>
-                                                        <a href="index.html#">CEO, Apple Inc</a>
+                                                        <a href="materialx.html#">CEO, Apple Inc</a>
                                                     </div>
                                                 </div>
                                             </div> <!-- ./single testimonial box -->
@@ -1220,7 +1220,7 @@
                                                     </div>
                                                     <div class="card-content">
                                                         <span class="card-title activator brand-text">Jonh Smith -</span>
-                                                        <a href="index.html#">CEO, Apple Inc</a>
+                                                        <a href="materialx.html#">CEO, Apple Inc</a>
                                                     </div>
                                                 </div>
                                             </div> <!-- ./single testimonial box -->
@@ -1269,7 +1269,7 @@
                                             </div>
                                         </div>
                                         <div class="clearfix card-content">
-                                            <a href="index.html#" class="left js-favorite" title="Love this"><i class="mdi-action-favorite"></i><span class="numb">15</span></a>
+                                            <a href="materialx.html#" class="left js-favorite" title="Love this"><i class="mdi-action-favorite"></i><span class="numb">15</span></a>
                                             <a href="single.html" class="brand-text right waves-effect">Read More</a>
                                         </div>
                                     </div>
@@ -1289,7 +1289,7 @@
                                             </div>
                                         </div>
                                         <div class="clearfix card-content">
-                                            <a href="index.html#" class="left js-favorite active" title="Love this"><i class="mdi-action-favorite"></i><span class="numb">23</span></a>
+                                            <a href="materialx.html#" class="left js-favorite active" title="Love this"><i class="mdi-action-favorite"></i><span class="numb">23</span></a>
                                             <a href="single.html" class="brand-text right waves-effect">Read More</a>
                                         </div>
                                     </div>
@@ -1309,7 +1309,7 @@
                                             </div>
                                         </div>
                                         <div class="clearfix card-content">
-                                            <a href="index.html#" class="left js-favorite" title="Love this"><i class="mdi-action-favorite"></i><span class="numb">17</span></a>
+                                            <a href="materialx.html#" class="left js-favorite" title="Love this"><i class="mdi-action-favorite"></i><span class="numb">17</span></a>
                                             <a href="single.html" class="brand-text right waves-effect">Read More</a>
                                         </div>
                                     </div>
@@ -1340,11 +1340,11 @@
                                     <h2 class="title">Contact</h2>
                                     <p class="regular-text">Collins Street West Victoria 8007 Australia</p>
                                     <ul class="clearfix contact-info">
-                                        <li><a href="index.html">+880 1234 567890</a>
+                                        <li><a href="materialx.html">+880 1234 567890</a>
                                         </li>
-                                        <li><a href="index.html">support@website.net</a>
+                                        <li><a href="materialx.html">support@website.net</a>
                                         </li>
-                                        <li><a href="index.html">www.website.net</a>
+                                        <li><a href="materialx.html">www.website.net</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -1362,7 +1362,7 @@
                                 <!-- Contact Form start -->
                                 <div class="col-sm-5">
                                     <div class="clearfix card-panel grey lighten-5 cform-wrapper">
-                                        <form action="index.html#" id="contactForm" novalidate>
+                                        <form action="materialx.html#" id="contactForm" novalidate>
                                             <div class="input-field">
                                                 <input id="contact_name" type="text" name="contactName" class="validate input-box">
                                                 <label for="contact_name" class="input-label">Name</label>
@@ -1399,7 +1399,7 @@
         <div class="section-call-to-area">
             <div class="container">
                 <div class="row">
-                    <a href="index.html#home" class="btn-floating btn-large button-middle call-to-home section-call-to-btn animated btn-up btn-hidden" data-section="#home">
+                    <a href="materialx.html#home" class="btn-floating btn-large button-middle call-to-home section-call-to-btn animated btn-up btn-hidden" data-section="#home">
                         <i class="mdi-navigation-expand-less"></i>
                     </a>
                 </div>
@@ -1415,17 +1415,17 @@
                 <div class="col-sm-12">
                     <div class="clearfix footer-inner">
                         <ul class="left social-icons">
-                            <li><a href="index.html#" class="tooltips tooltipped facebook" data-position="top" data-delay="50" data-tooltip="Facebook"><i class="fa fa-facebook"></i></a>
+                            <li><a href="materialx.html#" class="tooltips tooltipped facebook" data-position="top" data-delay="50" data-tooltip="Facebook"><i class="fa fa-facebook"></i></a>
                             </li>
-                            <li><a href="index.html#" class="tooltips tooltipped linkedin" data-position="top" data-delay="50" data-tooltip="Linkdin"><i class="fa fa-linkedin"></i></a>
+                            <li><a href="materialx.html#" class="tooltips tooltipped linkedin" data-position="top" data-delay="50" data-tooltip="Linkdin"><i class="fa fa-linkedin"></i></a>
                             </li>
-                            <li><a href="index.html#" class="tooltips tooltipped twitter" data-position="top" data-delay="50" data-tooltip="Twitter"><i class="fa fa-twitter"></i></a>
+                            <li><a href="materialx.html#" class="tooltips tooltipped twitter" data-position="top" data-delay="50" data-tooltip="Twitter"><i class="fa fa-twitter"></i></a>
                             </li>
-                            <li><a href="index.html#" class="tooltips tooltipped google-plus" data-position="top" data-delay="50" data-tooltip="Google Plus"><i class="fa fa-google-plus"></i></a>
+                            <li><a href="materialx.html#" class="tooltips tooltipped google-plus" data-position="top" data-delay="50" data-tooltip="Google Plus"><i class="fa fa-google-plus"></i></a>
                             </li>
-                            <li><a href="index.html#" class="tooltips tooltipped dribbble" data-position="top" data-delay="50" data-tooltip="Dribbble"><i class="fa fa-dribbble"></i></a>
+                            <li><a href="materialx.html#" class="tooltips tooltipped dribbble" data-position="top" data-delay="50" data-tooltip="Dribbble"><i class="fa fa-dribbble"></i></a>
                             </li>
-                            <li><a href="index.html#" class="tooltips tooltipped behance" data-position="top" data-delay="50" data-tooltip="Behance"><i class="fa fa-behance"></i></a>
+                            <li><a href="materialx.html#" class="tooltips tooltipped behance" data-position="top" data-delay="50" data-tooltip="Behance"><i class="fa fa-behance"></i></a>
                             </li>
                         </ul> <!-- ./social icons end -->
                         <div class="right copyright">

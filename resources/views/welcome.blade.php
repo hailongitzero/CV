@@ -8,13 +8,13 @@
 
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>MaterialX - Material Design Personal Template</title>
-    <meta name="description" content="">
+    <meta http-equiv="CVs - Chu Hai Lon" content="IE=edge">
+    <title>CVs - Chu Hai Long</title>
+    <meta name="description" content="CVs - Chu Hai Lon">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 
     <!-- Favicon-->
-    <link rel="shortcut icon" href="../resources/images/favicon.png" >
+    <link rel="shortcut icon" href="../resources/assets/css/favicons/favicon1.png" >
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="../resources/assets/css/normalize.css">
@@ -34,13 +34,6 @@
 
     <!-- Choose your default colors -->
     <link rel="stylesheet" href="../resources/assets/css/colors/color1.css">
-    <!-- <link rel="stylesheet" href="../resources/assets/css/colors/color2.css"> -->
-    <!-- <link rel="stylesheet" href="../resources/assets/css/colors/color3.css"> -->
-    {{--<link rel="stylesheet" href="../resources/assets/css/colors/color4.css">--}}
-    {{--<link rel="stylesheet" href="../resources/assets/css/colors/color5.css">--}}
-    <!-- <link rel="stylesheet" href="../resources/assets/css/colors/color6.css"> -->
-    <!-- <link rel="stylesheet" href="../resources/assets/css/colors/color7.css"> -->
-    <!-- <link rel="stylesheet" href="../resources/assets/css/colors/color8.css"> -->
 
     <!--[if lt IE 9]>
     <script src="../resources/assets/js/html5shiv.js"></script>
@@ -55,14 +48,14 @@
     <div class="content-switcher">
         <p class="brand-text">Color Options:</p>
         <ul class="header">
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color1'); return false;" class="button color switch" style="background-color:#00bcd4"></a></li>
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color2'); return false;" class="button color switch" style="background-color:#ff4081"></a></li>
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color3'); return false;" class="button color switch" style="background-color:#C043D5"></a></li>
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color4'); return false;" class="button color switch" style="background-color:#73D077"></a></li>
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color5'); return false;" class="button color switch" style="background-color:#FE7448"></a></li>
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color6'); return false;" class="button color switch" style="background-color:#1ABBAC"></a></li>
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color7'); return false;" class="button color switch" style="background-color:#EAB82E"></a></li>
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color8'); return false;" class="button color switch" style="background-color:#799CAC"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color1', 'favicon1', 'logo1', 'person1'); return false;" class="button color switch" style="background-color:#00bcd4"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color2', 'favicon2', 'logo2', 'person2'); return false;" class="button color switch" style="background-color:#ff4081"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color3', 'favicon3', 'logo3', 'person3'); return false;" class="button color switch" style="background-color:#C043D5"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color4', 'favicon4', 'logo4', 'person4'); return false;" class="button color switch" style="background-color:#73D077"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color5', 'favicon5', 'logo5', 'person5'); return false;" class="button color switch" style="background-color:#FE7448"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color6', 'favicon6', 'logo6', 'person6'); return false;" class="button color switch" style="background-color:#1ABBAC"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color7', 'favicon7', 'logo7', 'person7'); return false;" class="button color switch" style="background-color:#EAB82E"></a></li>
+            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color8', 'favicon8', 'logo8', 'person8'); return false;" class="button color switch" style="background-color:#799CAC"></a></li>
         </ul>
         <p class="brand-text">Menu Options:</p>
         <div class="menu-select" title="The menu will display in all devices">
@@ -106,7 +99,7 @@
                     <div class="nav-inner">
                         <nav class="primary-nav">
                             <div class="clearfix nav-wrapper">
-                                <a href="materialx.html#home" class="left brand-logo menu-smooth-scroll" data-section="#home"><img src="../resources/images/logo.png" alt="">
+                                <a href="materialx.html#home" class="left brand-logo menu-smooth-scroll" data-section="#home"><img src="../resources/assets/css/logos/logo1.png" alt="">
                                 </a>
                                 <a href="materialx.html#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
                                 <ul class="right static-menu">
@@ -132,10 +125,10 @@
                                     <li class="mobile-profile">
                                         <div class="profile-inner">
                                             <div class="pp-container">
-                                                <img src="../resources/images/person.jpg" alt="">
+                                                <img src="../resources/assets/css/persons/person1.png" alt="">
                                             </div>
-                                            <h3>John Doe</h3>
-                                            <h5>Creative UI/UX Expert</h5>
+                                            <h3>Chu Hai Long</h3>
+                                            <h5>Software Developer</h5>
                                         </div>
                                     </li><!-- mini profile end-->
 
@@ -144,12 +137,6 @@
                                     </li>
                                     <li><a href="materialx.html#resume" data-section="#resume" class="menu-smooth-scroll"><i class="fa fa-file-text fa-fw"></i>Resume</a>
                                     </li>
-                                    <li><a href="materialx.html#portfolio" data-section="#portfolio" class="menu-smooth-scroll"><i class="fa fa-briefcase fa-fw"></i>Portfolio</a>
-                                    </li>
-                                    <li><a href="materialx.html#team" data-section="#team" class="menu-smooth-scroll"><i class="fa fa-users fa-fw"></i>Team</a>
-                                    </li>
-                                    <li><a href="materialx.html#testimonial" data-section="#testimonial" class="menu-smooth-scroll"><i class="fa fa-comments fa-fw"></i>Testimonial</a>
-                                    </li>
                                     <li><a href="materialx.html#blog" data-section="#blog" class="menu-smooth-scroll"><i class="fa fa-pencil fa-fw"></i>Blog</a>
                                     </li>
                                     <li><a href="materialx.html#contact" data-section="#contact" class="menu-smooth-scroll"><i class="fa fa-paper-plane fa-fw"></i>Contact</a>
@@ -157,11 +144,7 @@
                                 </ul>
                                 <ul id="dropdown1" class="inline-menu submenu-ul dropdown-content">
                                     <li>Home</li>
-                                    <li><a href="blog.html">All Blog</a>
-                                    </li>
-                                    <li><a href="blog-with-sidebar.html">Blog with Sidebar</a>
-                                    </li>
-                                    <li><a href="single.html">Single Blog</a>
+                                    <li><a href="blog.html">Blog</a>
                                     </li>
                                 </ul>
 
@@ -183,8 +166,8 @@
                     <div class="col-sm-12">
                         <div class="home-inner">
                             <div class="center-align home-content">
-                                <h1 class="home-title">HI! I'm <span>John Doe</span></h1>
-                                <h2 class="home-subtitle">UX/UI Designer from Dhaka, Bangladesh</h2>
+                                <h1 class="home-title">HI! I'm <span>Chu Hai Long</span></h1>
+                                <h2 class="home-subtitle">Software Developer from Vung Tau - Viet Nam</h2>
                                 <a href="materialx.html#contact" class="hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Hire Me <i class="mdi-content-send left"></i>
                                 </a>
                             </div>
@@ -216,8 +199,8 @@
                     <div class="col-sm-12 col-md-4">
                         <div class="person-about">
                             <h3 class="about-subtitle">My Story</h3>
-                            <p>Hello, I’m a UI/UX Designer &amp; Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University. <br />
-                                And scrambled it to make a type specimen book. It has survived not only five centuries</p>
+                            <p>Hello, I'm a Software Developer from Vung Tau, Viet Nam. I hold a HDSE degree of Software Developer from the HaNoi Aptech Computer Education. <br />
+                                I working at Phu My Industrial(Ba Ria - Vung Tau), my current position is develop and maintenance Quality Control system of Posco SS-Vina Co.,ltd.</p>
                             <a class="waves-effect waves-light btn-large brand-bg white-text"><i class="mdi-content-archive left"></i> Download Resume</a>
                         </div>
                     </div>
@@ -225,7 +208,7 @@
 
                     <div class="col-sm-6 col-md-4">
                         <div class="person-img wow fadeIn">
-                            <img class="z-depth-1" src="../resources/images/person.jpg" alt="">
+                            <img class="z-depth-1" src="../resources/assets/css/persons/person1.png" alt="">
                         </div>
                     </div>
                     <!-- about me image -->
@@ -233,29 +216,23 @@
                     <div class="col-sm-6 col-md-4">
                         <div class="person-info">
                             <h3 class="about-subtitle">Personal Information</h3>
-                            <h5><span>Name :</span> John Doe</h5>
-                            <h5><span>Age :</span> 25 Years</h5>
-                            <h5><span>Phone :</span> +0123456789</h5>
-                            <h5><span>Email :</span> email@domain.com</h5>
-                            <h5><span>Address :</span> Dhaka, Bangladesh</h5>
+                            <h5><span>Name :</span> Chu Hai Long</h5>
+                            <h5><span>Age :</span> 27 Years</h5>
+                            <h5><span>Phone :</span> 0984462007</h5>
+                            <h5><span>Email :</span> chuhailong89@gmail.com</h5>
+                            <h5><span>Address :</span> Vung Tau - Viet Nam</h5>
                         </div>
 
                         <div class="about-social">
                             <ul>
                                 <li>
-                                    <a href="materialx.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-facebook"></i></a>
+                                    <a href="https://www.facebook.com/ChuHaiLong" class="btn-floating waves-effect waves-light white"><i class="fa fa-facebook"></i></a>
                                 </li>
                                 <li>
-                                    <a href="materialx.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-twitter"></i></a>
+                                    <a href="https://twitter.com/ChuChuhailong89" class="btn-floating waves-effect waves-light white"><i class="fa fa-twitter"></i></a>
                                 </li>
                                 <li>
-                                    <a href="materialx.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-google-plus"></i></a>
-                                </li>
-                                <li>
-                                    <a href="materialx.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-linkedin"></i></a>
-                                </li>
-                                <li>
-                                    <a href="materialx.html#" class="btn-floating waves-effect waves-light white"><i class="fa fa-pinterest"></i></a>
+                                    <a href="https://plus.google.com/+LongChuHai/" class="btn-floating waves-effect waves-light white"><i class="fa fa-google-plus"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -279,7 +256,7 @@
                             <div class="col-sm-12 col-md-3">
                                 <div class="skill-left">
                                     <h2 class="title">Skills</h2>
-                                    <p class="regular-text">Man behind the gun, any sophisticated weapons. Human remains that taking the role. We are experienced in utilizing all resources.</p>
+                                    <p class="regular-text">You can't build any kind of organization if you're not going to surround yourself with people who have experience and skill base beyond your own - Howard Schultz.</p>
                                 </div>
                             </div>
 
@@ -292,7 +269,7 @@
                                         <div class="single-skill">
                                             <div class="after-li">
                                                 <div class="singel-hr">
-                                                    <div class="singel-hr-inner" data-height="100%">
+                                                    <div class="singel-hr-inner" data-height="40%">
                                                         <div class="skill-visiable">
                                                             <span class="skill-title">Photoshop</span>
                                                             <div class="hr-wrap">
@@ -300,7 +277,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <span class="skill-count">100%</span>
+                                                    <span class="skill-count">40%</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -328,16 +305,16 @@
                                         <div class="single-skill">
                                             <div class="after-li">
                                                 <div class="singel-hr">
-                                                    <div class="singel-hr-inner" data-height="85%">
+                                                    <div class="singel-hr-inner" data-height="50%">
                                                         <div class="skill-visiable">
-                                                            <span class="skill-title">Illustrator</span>
+                                                            <span class="skill-title">CSS</span>
                                                             <div class="hr-wrap">
 
                                                                 <div class="hrc"></div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <span class="skill-count">85%</span>
+                                                    <span class="skill-count">50%</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -367,7 +344,7 @@
                                                 <div class="singel-hr">
                                                     <div class="singel-hr-inner" data-height="60%">
                                                         <div class="skill-visiable">
-                                                            <span class="skill-title">JavaScript</span>
+                                                            <span class="skill-title">Codeigniter</span>
                                                             <div class="hr-wrap">
                                                                 <div class="hrc"></div>
                                                             </div>
@@ -383,15 +360,15 @@
                                         <div class="single-skill">
                                             <div class="after-li">
                                                 <div class="singel-hr">
-                                                    <div class="singel-hr-inner" data-height="35%">
+                                                    <div class="singel-hr-inner" data-height="45%">
                                                         <div class="skill-visiable">
-                                                            <span class="skill-title">CSS</span>
+                                                            <span class="skill-title">Laravel</span>
                                                             <div class="hr-wrap">
                                                                 <div class="hrc"></div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <span class="skill-count">35%</span>
+                                                    <span class="skill-count">45%</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -401,16 +378,16 @@
                                         <div class="single-skill">
                                             <div class="after-li">
                                                 <div class="singel-hr">
-                                                    <div class="singel-hr-inner" data-height="85%">
+                                                    <div class="singel-hr-inner" data-height="50%">
                                                         <div class="skill-visiable">
-                                                            <span class="skill-title">Illustrator</span>
+                                                            <span class="skill-title">Java</span>
                                                             <div class="hr-wrap">
 
                                                                 <div class="hrc"></div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <span class="skill-count">85%</span>
+                                                    <span class="skill-count">50%</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -422,32 +399,13 @@
                                                 <div class="singel-hr">
                                                     <div class="singel-hr-inner" data-height="60%">
                                                         <div class="skill-visiable">
-                                                            <span class="skill-title">Wordpress</span>
+                                                            <span class="skill-title">SQL</span>
                                                             <div class="hr-wrap">
                                                                 <div class="hrc"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <span class="skill-count">60%</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- /single skill-->
-
-                                        <!-- single skill -->
-                                        <div class="single-skill">
-                                            <div class="after-li">
-                                                <div class="singel-hr">
-                                                    <div class="singel-hr-inner" data-height="85%">
-                                                        <div class="skill-visiable">
-                                                            <span class="skill-title">Illustrator</span>
-                                                            <div class="hr-wrap">
-
-                                                                <div class="hrc"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <span class="skill-count">85%</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -459,13 +417,32 @@
                                                 <div class="singel-hr">
                                                     <div class="singel-hr-inner" data-height="60%">
                                                         <div class="skill-visiable">
-                                                            <span class="skill-title">JavaScript</span>
+                                                            <span class="skill-title">Oracle</span>
                                                             <div class="hr-wrap">
+
                                                                 <div class="hrc"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <span class="skill-count">60%</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- /single skill-->
+
+                                        <!-- single skill -->
+                                        <div class="single-skill">
+                                            <div class="after-li">
+                                                <div class="singel-hr">
+                                                    <div class="singel-hr-inner" data-height="70%">
+                                                        <div class="skill-visiable">
+                                                            <span class="skill-title">Office</span>
+                                                            <div class="hr-wrap">
+                                                                <div class="hrc"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <span class="skill-count">70%</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -496,7 +473,7 @@
                                 <div class="clearfix section-head experience-text">
                                     <div class="col-sm-12">
                                         <h2 class="title">Experience</h2>
-                                        <p class="regular-text">Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.</p>
+                                        <p class="regular-text">Experience is what you get when you didn't get what you wanted. And experience is often the most valuable thing you have to offer - Randy Pausch. </p>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">
@@ -506,22 +483,22 @@
                                                 <div class="col-sm-4 cold-xs-12 single-card-box wow fadeInUpSmall" data-wow-duration=".7s">
                                                     <div class="card">
                                                         <div class="card-image waves-effect waves-block waves-light">
-                                                            <h2 class="left-align card-title-top">January 2014 - Present</h2>
+                                                            <h2 class="left-align card-title-top">April 2013 - March 2014</h2>
                                                             <div class="valign-wrapper card-img-wrap">
                                                                 <img class="activator" src="../resources/images/ghost_rider.jpg" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
-                                                            <span class="card-title activator brand-text">UX/UI Designer<i class="mdi-navigation-more-vert right"></i></span>
-                                                            <p>Apple.inc</p>
+                                                            <span class="card-title activator brand-text">IT Manager<i class="mdi-navigation-more-vert right"></i></span>
+                                                            <p>Vung Tau House Co.,ltd.</p>
                                                         </div>
                                                         <div class="card-reveal">
                                                             <div class="rev-title-wrap">
-                                                                <span class="card-title activator brand-text">UX/UI Designer<i class="mdi-navigation-close right"></i></span>
-                                                                <p>Apple.inc</p>
+                                                                <span class="card-title activator brand-text">IT Manager<i class="mdi-navigation-close right"></i></span>
+                                                                <p>Vung Tau House Co.,ltd.</p>
                                                             </div>
                                                             <p class="rev-content">
-                                                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
+                                                                Optimizer website, blog, SEO website.
                                                             </p>
                                                         </div>
                                                     </div>
@@ -529,22 +506,22 @@
                                                 <div class="col-sm-4 cold-xs-12 single-card-box wow fadeInUpSmall" data-wow-delay=".2s" data-wow-duration=".7s">
                                                     <div class="card">
                                                         <div class="card-image waves-effect waves-block waves-light">
-                                                            <h2 class="left-align card-title-top">January 2014 - Present</h2>
+                                                            <h2 class="left-align card-title-top">December 2014 - Present</h2>
                                                             <div class="valign-wrapper card-img-wrap">
                                                                 <img class="activator" src="../resources/images/lion.jpg" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
-                                                            <span class="card-title activator brand-text">UX/UI Designer<i class="mdi-navigation-more-vert right"></i></span>
-                                                            <p>Android One</p>
+                                                            <span class="card-title activator brand-text">Software Engineer<i class="mdi-navigation-more-vert right"></i></span>
+                                                            <p>Posco ICT VietNam Co., ltd.</p>
                                                         </div>
                                                         <div class="card-reveal">
                                                             <div class="rev-title-wrap">
-                                                                <span class="card-title activator brand-text">UX/UI Designer<i class="mdi-navigation-close right"></i></span>
-                                                                <p>Android One</p>
+                                                                <span class="card-title activator brand-text">Software Engineer<i class="mdi-navigation-close right"></i></span>
+                                                                <p>Posco ICT VietNam Co., ltd.</p>
                                                             </div>
                                                             <p class="rev-content">
-                                                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
+                                                                Software developer and maintenance Quality System of steel company Posco SS-Vina co., ltd. at Phu My Industrial Zones.
                                                             </p>
                                                         </div>
                                                     </div>
@@ -552,68 +529,22 @@
                                                 <div class="col-sm-4 cold-xs-12 single-card-box wow fadeInUpSmall" data-wow-delay=".4s" data-wow-duration=".7s">
                                                     <div class="card">
                                                         <div class="card-image waves-effect waves-block waves-light">
-                                                            <h2 class="left-align card-title-top">January 2014 - Present</h2>
+                                                            <h2 class="left-align card-title-top">Freelance</h2>
                                                             <div class="valign-wrapper card-img-wrap">
                                                                 <img class="activator" src="../resources/images/bull.jpg" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
-                                                            <span class="card-title activator brand-text">UX/UI Designer<i class="mdi-navigation-more-vert right"></i></span>
-                                                            <p>Android One</p>
+                                                            <span class="card-title activator brand-text">Full stack website developer<i class="mdi-navigation-more-vert right"></i></span>
+                                                            <p>Vung Chua Travel Co., ltd.</p>
                                                         </div>
                                                         <div class="card-reveal">
                                                             <div class="rev-title-wrap">
-                                                                <span class="card-title activator brand-text">UX/UI Designer<i class="mdi-navigation-close right"></i></span>
-                                                                <p>Android One</p>
+                                                                <span class="card-title activator brand-text">Full stack website developer<i class="mdi-navigation-close right"></i></span>
+                                                                <p>Vung Chua Travel Co., ltd.</p>
                                                             </div>
                                                             <p class="rev-content">
-                                                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="col-sm-4 cold-xs-12 single-card-box">
-                                                    <div class="card">
-                                                        <div class="card-image waves-effect waves-block waves-light">
-                                                            <h2 class="left-align card-title-top">January 2014 - Present</h2>
-                                                            <div class="valign-wrapper card-img-wrap">
-                                                                <img class="activator" src="../resources/images/beakers.jpg" alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="card-content">
-                                                            <span class="card-title activator brand-text">UX/UI Designer<i class="mdi-navigation-more-vert right"></i></span>
-                                                            <p>Windows Phone</p>
-                                                        </div>
-                                                        <div class="card-reveal">
-                                                            <div class="rev-title-wrap">
-                                                                <span class="card-title activator brand-text">UX/UI Designer<i class="mdi-navigation-close right"></i></span>
-                                                                <p>Windows Phone</p>
-                                                            </div>
-                                                            <p class="rev-content">
-                                                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="col-sm-4 cold-xs-12 single-card-box">
-                                                    <div class="card">
-                                                        <div class="card-image waves-effect waves-block waves-light">
-                                                            <h2 class="left-align card-title-top">January 2014 - Present</h2>
-                                                            <div class="valign-wrapper card-img-wrap">
-                                                                <img class="activator" src="../resources/images/kid.jpg" alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="card-content">
-                                                            <span class="card-title activator brand-text">UX/UI Designer<i class="mdi-navigation-more-vert right"></i></span>
-                                                            <p>Windows Phone</p>
-                                                        </div>
-                                                        <div class="card-reveal">
-                                                            <div class="rev-title-wrap">
-                                                                <span class="card-title activator brand-text">UX/UI Designer<i class="mdi-navigation-close right"></i></span>
-                                                                <p>Windows Phone</p>
-                                                            </div>
-                                                            <p class="rev-content">
-                                                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
+                                                                <a href="http://www.vungchuatravel.com" class="post-title-link">vungchuatravel.com</a> A website about travel and booking tour, airplane ticket... Base on Codeigniter php framework, css3, html5, bootstrap...
                                                             </p>
                                                         </div>
                                                     </div>
@@ -642,7 +573,7 @@
                                 <div class="clearfix section-head education-text">
                                     <div class="col-sm-12">
                                         <h2 class="title">education</h2>
-                                        <p class="regular-text">Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.</p>
+                                        <p class="regular-text">Education is the most powerful weapon which you can use to change the world - Nelson Mandela.</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">
@@ -654,102 +585,27 @@
                                                 <div class="col-sm-4 single-card-box wow fadeInUpSmall" data-wow-duration=".7s">
                                                     <div class="card">
                                                         <div class="card-image waves-effect waves-block waves-light">
-                                                            <h2 class="left-align card-title-top">20011 - 2012</h2>
+                                                            <h2 class="left-align card-title-top">2009 - 2012</h2>
                                                             <div class="card-img-wrap">
                                                                 <img class="activator" src="../resources/images/grad-cap.png" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
-                                                            <span class="card-title activator brand-text">Masters of Science<i class="mdi-navigation-more-vert right"></i></span>
-                                                            <p>Oxford University</p>
+                                                            <span class="card-title activator brand-text">Higher Diploma in Software Engineering<i class="mdi-navigation-more-vert right"></i></span>
+                                                            <p>HaNoi Aptech Computer Education</p>
                                                         </div>
                                                         <!-- Reveal content-->
                                                         <div class="card-reveal">
                                                             <div class="rev-title-wrap">
-                                                                <span class="card-title activator brand-text">Masters of Science<i class="mdi-navigation-close right"></i></span>
-                                                                <p>Oxford University</p>
+                                                                <span class="card-title activator brand-text">Higher Diploma in Software Engineering<i class="mdi-navigation-close right"></i></span>
+                                                                <p>HaNoi Aptech Computer Education</p>
                                                             </div>
                                                             <p class="rev-content">
-                                                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
+                                                                Higher Diploma in Software Engineering with an acclaimed International certification aimed to equip students with IT skills that is necessary for any IT professional to enter to the world of IT industry. To train a fresh mind to meet the extremely challenging, rapidly changing IT industry.
                                                             </p>
                                                         </div>
                                                     </div>
                                                 </div> <!-- single education end -->
-
-                                                <!-- single education -->
-                                                <div class="col-sm-4 single-card-box wow fadeInUpSmall" data-wow-delay=".2s" data-wow-duration=".7s">
-                                                    <div class="card">
-                                                        <div class="card-image waves-effect waves-block waves-light">
-                                                            <h2 class="left-align card-title-top">2005 - 2007</h2>
-                                                            <div class="card-img-wrap">
-                                                                <img class="activator" src="../resources/images/grad-cap.png" alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="card-content">
-                                                            <span class="card-title activator brand-text">Bachelor of Science<i class="mdi-navigation-more-vert right"></i></span>
-                                                            <p>Oxford University</p>
-                                                        </div>
-                                                        <div class="card-reveal">
-                                                            <div class="rev-title-wrap">
-                                                                <span class="card-title activator brand-text">Bachelor of Science<i class="mdi-navigation-close right"></i></span>
-                                                                <p>Oxford University</p>
-                                                            </div>
-                                                            <p class="rev-content">
-                                                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div> <!-- single education -->
-
-                                                <!-- single education -->
-                                                <div class="col-sm-4 single-card-box wow fadeInUpSmall" data-wow-delay=".4s" data-wow-duration=".7s">
-                                                    <div class="card">
-                                                        <div class="card-image waves-effect waves-block waves-light">
-                                                            <h2 class="left-align card-title-top">2005 - 2007</h2>
-                                                            <div class="card-img-wrap">
-                                                                <img class="activator" src="../resources/images/grad-cap.png" alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="card-content">
-                                                            <span class="card-title activator brand-text">A Level<i class="mdi-navigation-more-vert right"></i></span>
-                                                            <p>Oxford College</p>
-                                                        </div>
-                                                        <div class="card-reveal">
-                                                            <div class="rev-title-wrap">
-                                                                <span class="card-title activator brand-text">A Level<i class="mdi-navigation-close right"></i></span>
-                                                                <p>Oxford College</p>
-                                                            </div>
-                                                            <p class="rev-content">
-                                                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div> <!-- single education -->
-
-                                                <!-- single education -->
-                                                <div class="col-sm-4 single-card-box">
-                                                    <div class="card">
-                                                        <div class="card-image waves-effect waves-block waves-light">
-                                                            <h2 class="left-align card-title-top">1995 - 2005</h2>
-                                                            <div class="card-img-wrap">
-                                                                <img class="activator" src="../resources/images/grad-cap.png" alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="card-content">
-                                                            <span class="card-title activator brand-text">O Level<i class="mdi-navigation-more-vert right"></i></span>
-                                                            <p>Oxford School</p>
-                                                        </div>
-                                                        <div class="card-reveal">
-                                                            <div class="rev-title-wrap">
-                                                                <span class="card-title activator brand-text">O Level<i class="mdi-navigation-close right"></i></span>
-                                                                <p>Oxford School</p>
-                                                            </div>
-                                                            <p class="rev-content">
-                                                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div> <!-- single education -->
                                             </div>
                                         </div>
                                     </div>
@@ -774,17 +630,13 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
-                            <h2 class="title">PORTFOLIO</h2>
+                            <h2 class="title">Another</h2>
                             <ul class="inline-menu clearfix portfolio-category" id="portfolio-msnry-sort">
                                 <li class="active"><a href="materialx.html#" data-target="*">All</a>
                                 </li>
-                                <li><a href="materialx.html#" data-target=".category-1">Art</a>
+                                <li><a href="materialx.html#" data-target=".category-1">Another Skill</a>
                                 </li>
-                                <li><a href="materialx.html#" data-target=".category-2">Accessories</a>
-                                </li>
-                                <li><a href="materialx.html#" data-target=".category-3">Design</a>
-                                </li>
-                                <li><a href="materialx.html#" data-target=".category-4">Fashion</a>
+                                <li><a href="materialx.html#" data-target=".category-2">Hobbies</a>
                                 </li>
                             </ul>
                         </div>
@@ -796,12 +648,12 @@
         <div id="portfolioModal" class="modal white">
             <div class="model-img"></div>
             <div class="modal-content">
-                <h2 class="title">Lorem ipsum dolor sit fugit dolore.</h2>
-                <p class="m-content">A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior.</p>
+                <h2 class="title"></h2>
+                <p class="m-content"></p>
             </div>
 
             <div class="modal-footer">
-                <a href="materialx.html#" target="_blank" class="waves-effect btn-flat brand-text modal-action">Live Demo</a>
+                {{--<a href="materialx.html#" target="_blank" class="waves-effect btn-flat brand-text modal-action">Live Demo</a>--}}
                 <a href="materialx.html#" class="waves-effect btn-flat brand-text modal-action modal-close">cancel</a>
             </div>
         </div>
@@ -812,14 +664,14 @@
                     <div class="col-sm-12">
                         <ul class="clearfix protfolio-item" id="protfolio-msnry">
 
-                            <!-- Single Portfolio-->
-                            <li class="single-port-item category-1 category-3">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#"> <!-- Portfolio pop-up content-->
+                            <!-- Office -->
+                            <li class="single-port-item category-1">
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="../resources/images/portfolio/office1.png" data-title="Microsoft Office skill" data-content="Good skill at Microsoft Work, Excel, Power Point..." data-demo-link="#"> <!-- Portfolio pop-up content-->
                                     <div class="protfolio-image">
-                                        <img src="../resources/images/portfolio/pf1.jpg" alt="portfolio"> <!-- portfolio thumbnail-->
+                                        <img src="../resources/images/portfolio/office.png" alt="portfolio"> <!-- portfolio thumbnail-->
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
-                                                <h2 class="p-title">item name</h2>
+                                                <h2 class="p-title">Office</h2>
                                             </div>
                                         </div>
                                         <div class="p-overlay"></div>
@@ -829,13 +681,13 @@
                             <!--/ single portfolio -->
 
                             <!-- Single Portfolio-->
-                            <li class="single-port-item category-2 category-1">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                            <li class="single-port-item category-1">
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="../resources/images/portfolio/git1.png" data-title="SVN and Git" data-content="Management project source code using SVN server and Github." data-demo-link="#">
                                     <div class="protfolio-image">
-                                        <img src="../resources/images/portfolio/pf2.jpg" alt="portfolio">
+                                        <img src="../resources/images/portfolio/git.png" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
-                                                <h2 class="p-title">item name</h2>
+                                                <h2 class="p-title">SVN, GIT</h2>
                                             </div>
                                         </div>
                                         <div class="p-overlay"></div>
@@ -845,13 +697,29 @@
                             <!--/ single portfolio -->
 
                             <!-- Single Portfolio-->
-                            <li class="single-port-item category-1 category-2">
+                            <li class="single-port-item category-1">
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="../resources/images/portfolio/seo.png" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                                    <div class="protfolio-image">
+                                        <img src="../resources/images/portfolio/seo.png" alt="portfolio">
+                                        <div class="protfolio-content waves-effect waves-block waves-light">
+                                            <div class="protfolio-content__inner">
+                                                <h2 class="p-title">SEO</h2>
+                                            </div>
+                                        </div>
+                                        <div class="p-overlay"></div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--/ single portfolio -->
+
+                            <!-- Single Portfolio-->
+                            <li class="single-port-item category-1">
                                 <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="../resources/images/portfolio/pf3.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
-                                                <h2 class="p-title">item name</h2>
+                                                <h2 class="p-title">Team Work</h2>
                                             </div>
                                         </div>
                                         <div class="p-overlay"></div>
@@ -861,13 +729,13 @@
                             <!--/ single portfolio -->
 
                             <!-- Single Portfolio-->
-                            <li class="single-port-item category-3">
+                            <li class="single-port-item category-2">
                                 <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="../resources/images/portfolio/pf4.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
-                                                <h2 class="p-title">item name</h2>
+                                                <h2 class="p-title">Football</h2>
                                             </div>
                                         </div>
                                         <div class="p-overlay"></div>
@@ -877,13 +745,13 @@
                             <!--/ single portfolio -->
 
                             <!-- Single Portfolio-->
-                            <li class="single-port-item category-1 category-3 category-4">
+                            <li class="single-port-item category-2">
                                 <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="../resources/images/portfolio/pf5.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
-                                                <h2 class="p-title">item name</h2>
+                                                <h2 class="p-title">Music</h2>
                                             </div>
                                         </div>
                                         <div class="p-overlay"></div>
@@ -893,13 +761,13 @@
                             <!--/ single portfolio -->
 
                             <!-- Single Portfolio-->
-                            <li class="single-port-item category-2 category-4">
+                            <li class="single-port-item category-2">
                                 <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="../resources/images/portfolio/pf6.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
-                                                <h2 class="p-title">item name</h2>
+                                                <h2 class="p-title">Movie</h2>
                                             </div>
                                         </div>
                                         <div class="p-overlay"></div>
@@ -917,328 +785,6 @@
         </div>
     </section>
     <!-- #portfolio Section end -->
-
-    <!-- Team Section end -->
-    <section id="team" class="scroll-section root-sec brand-bg padd-tb-120 team-wrap">
-        <div class="container">
-            <div class="row">
-                <div class="clearfix team-inner">
-                    <div class="col-sm-12 col-md-10 card-box-wrap">
-                        <div class="row">
-                            <div class="clearfix section-head team-text">
-                                <div class="col-sm-12">
-                                    <h2 class="title">our team</h2>
-                                    <p class="regular-text">Our Team combines a unique combination of creativity, experience, knowledge but most of all a shared 'can do' attitude to help clients get the very best support, advice and project management to achieve business goals.</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-12">
-                                <div class="overflow-hidden">
-                                    <div class="row">
-                                        <div id="teamSlider" class="clearfix card-element-wrapper">
-                                            <div class="col-sm-4 single-card-box wow fadeInUpSmall" data-wow-duration=".7s">
-                                                <div class="card">
-                                                    <div class="card-image waves-effect waves-block waves-light">
-                                                        <div class="card-img-wrap">
-                                                            <img class="activator" src="../resources/images/t1.png" alt="">
-                                                        </div>
-                                                    </div>
-                                                    <div class="card-content">
-                                                        <span class="card-title activator brand-text">Jonh Doe<i class="mdi-navigation-more-vert right"></i></span>
-                                                        <p>UX UI Designer</p>
-                                                    </div>
-                                                    <div class="card-reveal">
-                                                        <div class="rev-title-wrap">
-                                                            <span class="card-title activator brand-text">Jonh Doe<i class="mdi-navigation-close right"></i></span>
-                                                            <p>UX UI Designer</p>
-                                                        </div>
-                                                        <p class="rev-content">
-                                                            Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- single team member -->
-                                            <div class="col-sm-4 single-card-box wow fadeInUpSmall" data-wow-delay=".2s" data-wow-duration=".7s">
-                                                <div class="card">
-                                                    <div class="card-image waves-effect waves-block waves-light">
-                                                        <div class="card-img-wrap">
-                                                            <img class="activator" src="../resources/images/t2.png" alt="">
-                                                        </div>
-                                                    </div>
-                                                    <div class="card-content">
-                                                        <span class="card-title activator brand-text">Letizia Toye<i class="mdi-navigation-more-vert right"></i></span>
-                                                        <p>Front End Developer</p>
-                                                    </div>
-                                                    <div class="card-reveal">
-                                                        <div class="rev-title-wrap">
-                                                            <span class="card-title activator brand-text">Letizia Toye<i class="mdi-navigation-close right"></i></span>
-                                                            <p>Front End Developer</p>
-                                                        </div>
-                                                        <p class="rev-content">
-                                                            Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- single team member -->
-                                            <div class="col-sm-4 single-card-box wow fadeInUpSmall" data-wow-delay=".4s" data-wow-duration=".7s">
-                                                <div class="card">
-                                                    <div class="card-image waves-effect waves-block waves-light">
-                                                        <div class="card-img-wrap">
-                                                            <img class="activator" src="../resources/images/t3.png" alt="">
-                                                        </div>
-                                                    </div>
-                                                    <div class="card-content">
-                                                        <span class="card-title activator brand-text">Letizia Toye<i class="mdi-navigation-more-vert right"></i></span>
-                                                        <p>Front End Developer</p>
-                                                    </div>
-                                                    <div class="card-reveal">
-                                                        <div class="rev-title-wrap">
-                                                            <span class="card-title activator brand-text">Letizia Toye<i class="mdi-navigation-close right"></i></span>
-                                                            <p>Front End Developer</p>
-                                                        </div>
-                                                        <p class="rev-content">
-                                                            Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- single team member -->
-                                            <div class="col-sm-4 single-card-box">
-                                                <div class="card">
-                                                    <div class="card-image waves-effect waves-block waves-light">
-                                                        <div class="card-img-wrap">
-                                                            <img class="activator" src="../resources/images/t4.png" alt="">
-                                                        </div>
-                                                    </div>
-                                                    <div class="card-content">
-                                                        <span class="card-title activator brand-text">Letizia Toye<i class="mdi-navigation-more-vert right"></i></span>
-                                                        <p>Front End Developer</p>
-                                                    </div>
-                                                    <div class="card-reveal">
-                                                        <div class="rev-title-wrap">
-                                                            <span class="card-title activator brand-text">Letizia Toye<i class="mdi-navigation-close right"></i></span>
-                                                            <p>Front End Developer</p>
-                                                        </div>
-                                                        <p class="rev-content">
-                                                            Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- single team member -->
-                                            <div class="col-sm-4 single-card-box">
-                                                <div class="card">
-                                                    <div class="card-image waves-effect waves-block waves-light">
-                                                        <div class="card-img-wrap">
-                                                            <img class="activator" src="../resources/images/t5.png" alt="">
-                                                        </div>
-                                                    </div>
-                                                    <div class="card-content">
-                                                        <span class="card-title activator brand-text">Tandi Battle<i class="mdi-navigation-more-vert right"></i></span>
-                                                        <p>Team Manager</p>
-                                                    </div>
-                                                    <div class="card-reveal">
-                                                        <div class="rev-title-wrap">
-                                                            <span class="card-title activator brand-text">Tandi Battle<i class="mdi-navigation-close right"></i></span>
-                                                            <p>Team Manager</p>
-                                                        </div>
-                                                        <p class="rev-content">
-                                                            Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- single team member -->
-                                            <div class="col-sm-4 single-card-box">
-                                                <div class="card">
-                                                    <div class="card-image waves-effect waves-block waves-light">
-                                                        <div class="card-img-wrap">
-                                                            <img class="activator" src="../resources/images/t6.png" alt="">
-                                                        </div>
-                                                    </div>
-                                                    <div class="card-content">
-                                                        <span class="card-title activator brand-text">Tandi Battle<i class="mdi-navigation-more-vert right"></i></span>
-                                                        <p>Team Manager</p>
-                                                    </div>
-                                                    <div class="card-reveal">
-                                                        <div class="rev-title-wrap">
-                                                            <span class="card-title activator brand-text">Tandi Battle<i class="mdi-navigation-close right"></i></span>
-                                                            <p>Team Manager</p>
-                                                        </div>
-                                                        <p class="rev-content">
-                                                            Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- single team member -->
-                                        </div> <!-- #teamSlider end -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="btn-wrapp tmu-ctrl">
-                        <a class="btn-floating waves-effect waves-light btn-large white go go-left"><i class="mdi-navigation-chevron-left brand-text"></i></a>
-                        <a class="btn-floating waves-effect waves-light btn-large white go go-right"><i class="mdi-navigation-chevron-right brand-text"></i></a>
-                    </div>
-                </div>
-            </div>
-
-        </div> <!-- .container -->
-    </section>
-    <!-- #team Section end -->
-
-    <!-- Funfacts Section end -->
-    <section id="funfacts" class="root-sec grey lighten-5 funfact-wrap">
-        <div class="sec-inner padd-tb-120">
-            <div class="container">
-                <div class="row">
-                    <div class="funfact-inner">
-                        <div class="col-sm-4 funfact-box">
-                            <div class="center-align card-panel white">
-                                <div class="feature-box-outer">
-                                    <div class="funfact-box-inner">
-                                        <div class="clearfix ">
-                                            <i class="mdi-editor-insert-emoticon"></i>
-                                            <span class="num countNumb">150</span>
-                                        </div>
-                                        <div class="context">Happy clients</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> <!-- ./single fun fact box -->
-                        <div class="col-sm-4 funfact-box">
-                            <div class="center-align card-panel white">
-                                <div class="feature-box-outer">
-                                    <div class="funfact-box-inner">
-                                        <div class="clearfix ">
-                                            <i class="mdi-action-wallet-travel"></i>
-                                            <span class="num countNumb">230</span>
-                                        </div>
-                                        <div class="context">Project Completed</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> <!-- ./single fun fact box -->
-                        <div class="col-sm-4 funfact-box">
-                            <div class="center-align card-panel white">
-                                <div class="feature-box-outer">
-                                    <div class="funfact-box-inner">
-                                        <div class="clearfix ">
-                                            <i class="mdi-action-wallet-giftcard"></i>
-                                            <span class="num countNumb">79</span>
-                                        </div>
-                                        <div class="context">Award Won</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> <!-- ./single fun fact box -->
-                    </div>
-                </div>
-
-            </div>  <!-- .container end -->
-        </div>
-    </section>
-    <!-- #funfacts Section end -->
-
-    <!-- Testimonial Section end -->
-    <section id="testimonial" class="scroll-section root-sec brand-bg padd-tb-120 testimonial-wrap">
-        <div class="container">
-            <div class="row">
-                <div class="testimonial-inner">
-                    <div class="col-sm-12 col-md-10 card-box-wrap">
-                        <div class="row">
-                            <div class="clearfix section-head testimonial-text">
-                                <div class="col-sm-12">
-                                    <h2 class="title">testimonial</h2>
-                                    <p class="regular-text">Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-12">
-                                <div class="overflow-hidden">
-                                    <div class="row">
-                                        <div id="testimonialSlider" class="clearfix card-element-wrapper">
-                                            <div class="col-sm-6 single-card-box wow fadeInUpSmall" data-wow-duration=".7s">
-                                                <div class="card">
-                                                    <div class="card-image waves-effect waves-block waves-light">
-                                                        <div class="card-img-wrap">
-                                                            <img class="activator" src="../resources/images/client5.png" alt="">
-                                                            <p class="saying-about">Amazing theme, amazing code and especially amazing support! I Really love your work.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="card-content">
-                                                        <span class="card-title activator brand-text">Jonh Smith -</span>
-                                                        <a href="materialx.html#">CEO, Apple Inc</a>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- ./single testimonial box -->
-                                            <div class="col-sm-6 single-card-box wow fadeInUpSmall" data-wow-delay=".2s" data-wow-duration=".7s">
-                                                <div class="card">
-                                                    <div class="card-image waves-effect waves-block waves-light">
-                                                        <div class="card-img-wrap">
-                                                            <img class="activator" src="../resources/images/client1.png" alt="">
-                                                            <p class="saying-about">Amazing theme, amazing code and especially amazing support! I Really love your work.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="card-content">
-                                                        <span class="card-title activator brand-text">Jonh Smith -</span>
-                                                        <a href="materialx.html#">CEO, Apple Inc</a>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- ./single testimonial box -->
-                                            <div class="col-sm-6 single-card-box">
-                                                <div class="card">
-                                                    <div class="card-image waves-effect waves-block waves-light">
-                                                        <div class="card-img-wrap">
-                                                            <img class="activator" src="../resources/images/client2.png" alt="">
-                                                            <p class="saying-about">Amazing theme, amazing code and especially amazing support ! I Really love your work.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="card-content">
-                                                        <span class="card-title activator brand-text">Jonh Smith -</span>
-                                                        <a href="materialx.html#">CEO, Apple Inc</a>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- ./single testimonial box -->
-                                            <div class="col-sm-6 single-card-box">
-                                                <div class="card">
-                                                    <div class="card-image waves-effect waves-block waves-light">
-                                                        <div class="card-img-wrap">
-                                                            <img class="activator" src="../resources/images/client3.png" alt="">
-                                                            <p class="saying-about">Amazing theme, amazing code and especially amazing support ! I Really love your work.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="card-content">
-                                                        <span class="card-title activator brand-text">Jonh Smith -</span>
-                                                        <a href="materialx.html#">CEO, Apple Inc</a>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- ./single testimonial box -->
-                                            <div class="col-sm-6 single-card-box">
-                                                <div class="card">
-                                                    <div class="card-image waves-effect waves-block waves-light">
-                                                        <div class="card-img-wrap">
-                                                            <img class="activator" src="../resources/images/client4.png" alt="">
-                                                            <p class="saying-about">Amazing theme, amazing code and especially amazing support ! I Really love your work.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="card-content">
-                                                        <span class="card-title activator brand-text">Jonh Smith -</span>
-                                                        <a href="materialx.html#">CEO, Apple Inc</a>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- ./single testimonial box -->
-                                        </div> <!-- #testimonialSlider end -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="btn-wrapp tmo-ctrl">
-                        <a class="btn-floating waves-effect waves-light btn-large white go go-left"><i class="mdi-navigation-chevron-left brand-text"></i></a>
-                        <a class="btn-floating waves-effect waves-light btn-large white go go-right"><i class="mdi-navigation-chevron-right brand-text"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div> <!-- ./container end -->
-    </section>
-    <!-- #testimonial Section end -->
 
     <!-- Blog Section end -->
     <section id="blog" class="scroll-section root-sec grey lighten-5 padd-tb-120 blog-wrap">
@@ -1338,13 +884,13 @@
                             <div class="clearfix section-head contact-text">
                                 <div class="col-sm-12">
                                     <h2 class="title">Contact</h2>
-                                    <p class="regular-text">Collins Street West Victoria 8007 Australia</p>
+                                    <p class="regular-text">227/6 Luu Chi Hieu,W 10, Vung Tau</p>
                                     <ul class="clearfix contact-info">
-                                        <li><a href="materialx.html">+880 1234 567890</a>
+                                        <li><a href="materialx.html">0984462007</a>
                                         </li>
-                                        <li><a href="materialx.html">support@website.net</a>
+                                        <li><a href="materialx.html">chuhailong89@gmail.com</a>
                                         </li>
-                                        <li><a href="materialx.html">www.website.net</a>
+                                        <li><a href="materialx.html">www.chuhailong.tk</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -1416,20 +962,11 @@
                     <div class="clearfix footer-inner">
                         <ul class="left social-icons">
                             <li><a href="materialx.html#" class="tooltips tooltipped facebook" data-position="top" data-delay="50" data-tooltip="Facebook"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="materialx.html#" class="tooltips tooltipped linkedin" data-position="top" data-delay="50" data-tooltip="Linkdin"><i class="fa fa-linkedin"></i></a>
-                            </li>
                             <li><a href="materialx.html#" class="tooltips tooltipped twitter" data-position="top" data-delay="50" data-tooltip="Twitter"><i class="fa fa-twitter"></i></a>
-                            </li>
                             <li><a href="materialx.html#" class="tooltips tooltipped google-plus" data-position="top" data-delay="50" data-tooltip="Google Plus"><i class="fa fa-google-plus"></i></a>
-                            </li>
-                            <li><a href="materialx.html#" class="tooltips tooltipped dribbble" data-position="top" data-delay="50" data-tooltip="Dribbble"><i class="fa fa-dribbble"></i></a>
-                            </li>
-                            <li><a href="materialx.html#" class="tooltips tooltipped behance" data-position="top" data-delay="50" data-tooltip="Behance"><i class="fa fa-behance"></i></a>
-                            </li>
                         </ul> <!-- ./social icons end -->
                         <div class="right copyright">
-                            <p>MaterialX &copy; All Rights Reserved</p>
+                            <p>ChuHaiLong &copy; All Rights Reserved</p>
                         </div>
                     </div>
                 </div>

@@ -567,8 +567,8 @@ $(document).ready(function($){
 	if ( $mapWrapper.length > 0 ) {
 		var map = new GMaps({
 			div: '#map',
-			lat : 23.79473005386213,
-			lng : 90.41430473327637,
+			lat : 10.3793816,
+			lng : 107.119760,
 			scrollwheel: false,
 			draggable: draggableOp,
 			zoom: 16,
@@ -577,11 +577,11 @@ $(document).ready(function($){
 		});
 
 		map.addMarker({
-			lat : 23.79473005386213,
-			lng : 90.41430473327637,
+			lat : 10.3793816,
+			lng : 107.119760,
 			icon: '../resources/images/marker-icon.png',
 			infoWindow: {
-				content: '<p>BD InfoSys Ltd, Dhaka, Bangladesh</p>'
+				content: '<p>Chu Hai Long Home - 227/6 Luu Chi Hieu st, W 10, Vung Tau</p>'
 			}
 		});
 	}
