@@ -14,32 +14,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 
     <!-- Favicon-->
-    <link rel="shortcut icon" href="images/favicon.png" >
+    <link rel="shortcut icon" href="resources/images/favicon.png" >
 
     <!-- Stylesheets-->
-    <link rel="stylesheet" href="assets/css/normalize.css">
-    <link rel="stylesheet" href="assets/font/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/libs/materialize/css/materialize.min.css" media="screen,projection" />
-    <link rel="stylesheet" href="assets/css/bootstrap.css" media="screen,projection" />
-    <link rel="stylesheet" href="assets/libs/owl-carousel/owl.carousel.css" media="screen,projection" />
-    <link rel="stylesheet" href="assets/libs/owl-carousel/owl.transitions.css" media="screen,projection" />
-    <link rel="stylesheet" href="assets/libs/owl-carousel/owl.theme.css" media="screen,projection" />
-    <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="stylesheet" href="assets/css/responsive.css">
-    <link rel="stylesheet" href="assets/css/blog.css">
+    <link rel="stylesheet" href="resources/assets/css/normalize.css">
+    <link rel="stylesheet" href="resources/assets/font/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="resources/assets/libs/materialize/css/materialize.min.css" media="screen,projection" />
+    <link rel="stylesheet" href="resources/assets/css/bootstrap.css" media="screen,projection" />
+    <link rel="stylesheet" href="resources/assets/libs/owl-carousel/owl.carousel.css" media="screen,projection" />
+    <link rel="stylesheet" href="resources/assets/libs/owl-carousel/owl.transitions.css" media="screen,projection" />
+    <link rel="stylesheet" href="resources/assets/libs/owl-carousel/owl.theme.css" media="screen,projection" />
+    <link rel="stylesheet" href="resources/assets/css/main.css">
+    <link rel="stylesheet" href="resources/assets/css/responsive.css">
+    <link rel="stylesheet" href="resources/assets/css/blog.css">
 
     <!-- Choose your default colors -->
-    <link rel="stylesheet" href="assets/css/colors/color1.css">
-    <!-- <link rel="stylesheet" href="assets/css/colors/color2.css"> -->
-    <!-- <link rel="stylesheet" href="assets/css/colors/color3.css"> -->
-    <!-- <link rel="stylesheet" href="assets/css/colors/color4.css"> -->
-    <!-- <link rel="stylesheet" href="assets/css/colors/color5.css"> -->
-    <!-- <link rel="stylesheet" href="assets/css/colors/color6.css"> -->
-    <!-- <link rel="stylesheet" href="assets/css/colors/color7.css"> -->
-    <!-- <link rel="stylesheet" href="assets/css/colors/color8.css"> -->
+    <link rel="stylesheet" href="resources/assets/css/colors/color1.css">
+    <!-- <link rel="stylesheet" href="resources/assets/css/colors/color2.css"> -->
+    <!-- <link rel="stylesheet" href="resources/assets/css/colors/color3.css"> -->
+    <!-- <link rel="stylesheet" href="resources/assets/css/colors/color4.css"> -->
+    <!-- <link rel="stylesheet" href="resources/assets/css/colors/color5.css"> -->
+    <!-- <link rel="stylesheet" href="resources/assets/css/colors/color6.css"> -->
+    <!-- <link rel="stylesheet" href="resources/assets/css/colors/color7.css"> -->
+    <!-- <link rel="stylesheet" href="resources/assets/css/colors/color8.css"> -->
 
     <!--[if lt IE 9]>
-    <script src="assets/js/html5shiv.js"></script>
+    <script src="resources/assets/js/html5shiv.js"></script>
     <![endif]-->
 </head>
 
@@ -88,7 +88,7 @@
                     <div class="nav-inner">
                         <nav class="primary-nav">
                             <div class="clearfix nav-wrapper">
-                                <a href="single.html#!" class="left brand-logo"><img src="images/logo.png" alt="">
+                                <a href="single.html#!" class="left brand-logo"><img src="resources/images/logo.png" alt="">
                                 </a>
                                 <a href="single.html#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
                                 <ul class="right static-menu">
@@ -114,7 +114,7 @@
                                     <li class="mobile-profile">
                                         <div class="profile-inner">
                                             <div class="pp-container">
-                                                <img src="images/person.jpg" alt="">
+                                                <img src="resources/images/person.jpg" alt="">
                                             </div>
                                             <h3>John Doe</h3>
                                             <h5>Creative UI/UX Expert</h5>
@@ -178,7 +178,7 @@
                     <div class="col-sm-8">
                         <article class="single-post-page">
                             <div class="thumb-wrap">
-                                <img src="images/single-blog.png" alt="">
+                                <img src="resources/images/single-blog.png" alt="">
                             </div>
                             <div class="single-post-content">
                                 <p>Curabitur suscipit suscipit tellus. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Donec vitae sapien ut libero venenatis faucibus. In ac felis quis tortor malesuada pretium.</p>
@@ -236,7 +236,7 @@
                                         <li>
                                             <div class="clearfix card">
                                                 <div class="left comment-img">
-                                                    <a href="single.html#"><img src="images/cmt1.jpg" alt="">
+                                                    <a href="single.html#"><img src="resources/images/cmt1.jpg" alt="">
                                                     </a>
                                                 </div>
                                                 <div class="card-content comment-content">
@@ -256,7 +256,7 @@
                                                 <li>
                                                     <div class="clearfix card">
                                                         <div class="left comment-img">
-                                                            <a href="single.html#"><img src="images/unknown.jpg" alt="">
+                                                            <a href="single.html#"><img src="resources/images/unknown.jpg" alt="">
                                                             </a>
                                                         </div>
                                                         <div class="card-content comment-content">
@@ -275,7 +275,7 @@
                                                         <li>
                                                             <div class="clearfix card">
                                                                 <div class="left comment-img">
-                                                                    <a href="single.html#"><img src="images/cmt1.jpg" alt="">
+                                                                    <a href="single.html#"><img src="resources/images/cmt1.jpg" alt="">
                                                                     </a>
                                                                 </div>
                                                                 <div class="card-content comment-content">
@@ -298,7 +298,7 @@
                                         <li>
                                             <div class="clearfix card">
                                                 <div class="left comment-img">
-                                                    <a href="single.html#"><img src="images/cmt2.jpg" alt="">
+                                                    <a href="single.html#"><img src="resources/images/cmt2.jpg" alt="">
                                                     </a>
                                                 </div>
                                                 <div class="card-content comment-content">
@@ -318,7 +318,7 @@
                                                 <li>
                                                     <div class="clearfix card">
                                                         <div class="left comment-img">
-                                                            <a href="single.html#"><img src="images/cmt1.jpg" alt="">
+                                                            <a href="single.html#"><img src="resources/images/cmt1.jpg" alt="">
                                                             </a>
                                                         </div>
                                                         <div class="card-content comment-content">
@@ -337,7 +337,7 @@
                                                 <li>
                                                     <div class="clearfix card">
                                                         <div class="left comment-img">
-                                                            <a href="single.html#"><img src="images/cmt2.jpg" alt="">
+                                                            <a href="single.html#"><img src="resources/images/cmt2.jpg" alt="">
                                                             </a>
                                                         </div>
                                                         <div class="card-content comment-content">
@@ -358,7 +358,7 @@
                                         <li>
                                             <div class="clearfix card">
                                                 <div class="left comment-img">
-                                                    <a href="single.html#"><img src="images/unknown.jpg" alt="">
+                                                    <a href="single.html#"><img src="resources/images/unknown.jpg" alt="">
                                                     </a>
                                                 </div>
                                                 <div class="card-content comment-content">
@@ -377,7 +377,7 @@
                                         <li>
                                             <div class="clearfix card">
                                                 <div class="left comment-img">
-                                                    <a href="single.html#"><img src="images/cmt1.jpg" alt="">
+                                                    <a href="single.html#"><img src="resources/images/cmt1.jpg" alt="">
                                                     </a>
                                                 </div>
                                                 <div class="card-content comment-content">
@@ -535,11 +535,11 @@
 
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script src="assets/js/jquery.nicescroll.min.js"></script>
-<script src="assets/libs/owl-carousel/owl.carousel.min.js"></script>
-<script src="assets/libs/materialize/js/materialize.min.js"></script>
-<script src="assets/libs/jwplayer/jwplayer.js"></script>
-<script src="assets/js/common.js"></script>
+<script src="resources/assets/js/jquery.nicescroll.min.js"></script>
+<script src="resources/assets/libs/owl-carousel/owl.carousel.min.js"></script>
+<script src="resources/assets/libs/materialize/js/materialize.min.js"></script>
+<script src="resources/assets/libs/jwplayer/jwplayer.js"></script>
+<script src="resources/assets/js/common.js"></script>
 </body>
 
 </html>

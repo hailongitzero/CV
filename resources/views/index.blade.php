@@ -14,36 +14,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 
     <!-- Favicon-->
-    <link rel="shortcut icon" href="images/favicon.png" >
+    <link rel="shortcut icon" href="resources/images/favicon.png" >
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="assets/css/normalize.css">
-    <link rel="stylesheet" href="assets/font/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/libs/materialize/css/materialize.min.css" media="screen,projection" />
-    <link rel="stylesheet" href="assets/css/bootstrap.css" media="screen,projection" />
+    <link rel="stylesheet" href="resources/assets/css/normalize.css">
+    <link rel="stylesheet" href="resources/assets/font/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="resources/assets/libs/materialize/css/materialize.min.css" media="screen,projection" />
+    <link rel="stylesheet" href="resources/assets/css/bootstrap.css" media="screen,projection" />
 
-    <link rel="stylesheet" href="assets/css/animate.min.css" media="screen,projection" />
-    <link rel="stylesheet" href="assets/libs/sweetalert/sweet-alert.css" media="screen,projection" />
+    <link rel="stylesheet" href="resources/assets/css/animate.min.css" media="screen,projection" />
+    <link rel="stylesheet" href="resources/assets/libs/sweetalert/sweet-alert.css" media="screen,projection" />
 
-    <link rel="stylesheet" href="assets/libs/owl-carousel/owl.carousel.css" media="screen,projection" />
-    <link rel="stylesheet" href="assets/libs/owl-carousel/owl.transitions.css" media="screen,projection" />
-    <link rel="stylesheet" href="assets/libs/owl-carousel/owl.theme.css" media="screen,projection" />
+    <link rel="stylesheet" href="resources/assets/libs/owl-carousel/owl.carousel.css" media="screen,projection" />
+    <link rel="stylesheet" href="resources/assets/libs/owl-carousel/owl.transitions.css" media="screen,projection" />
+    <link rel="stylesheet" href="resources/assets/libs/owl-carousel/owl.theme.css" media="screen,projection" />
 
-    <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="stylesheet" href="resources/assets/css/main.css">
+    <link rel="stylesheet" href="resources/assets/css/responsive.css">
 
     <!-- Choose your default colors -->
-    <link rel="stylesheet" href="assets/css/colors/color1.css">
-    <!-- <link rel="stylesheet" href="assets/css/colors/color2.css"> -->
-    <!-- <link rel="stylesheet" href="assets/css/colors/color3.css"> -->
-    <!-- <link rel="stylesheet" href="assets/css/colors/color4.css"> -->
-    <!-- <link rel="stylesheet" href="assets/css/colors/color5.css"> -->
-    <!-- <link rel="stylesheet" href="assets/css/colors/color6.css"> -->
-    <!-- <link rel="stylesheet" href="assets/css/colors/color7.css"> -->
-    <!-- <link rel="stylesheet" href="assets/css/colors/color8.css"> -->
+    <link rel="stylesheet" href="resources/assets/css/colors/color1.css">
+    <!-- <link rel="stylesheet" href="resources/assets/css/colors/color2.css"> -->
+    <!-- <link rel="stylesheet" href="resources/assets/css/colors/color3.css"> -->
+    <!-- <link rel="stylesheet" href="resources/assets/css/colors/color4.css"> -->
+    <!-- <link rel="stylesheet" href="resources/assets/css/colors/color5.css"> -->
+    <!-- <link rel="stylesheet" href="resources/assets/css/colors/color6.css"> -->
+    <!-- <link rel="stylesheet" href="resources/assets/css/colors/color7.css"> -->
+    <!-- <link rel="stylesheet" href="resources/assets/css/colors/color8.css"> -->
 
     <!--[if lt IE 9]>
-    <script src="assets/js/html5shiv.js"></script>
+    <script src="resources/assets/js/html5shiv.js"></script>
     <![endif]-->
 </head>
 
@@ -106,7 +106,7 @@
                     <div class="nav-inner">
                         <nav class="primary-nav">
                             <div class="clearfix nav-wrapper">
-                                <a href="index.html#home" class="left brand-logo menu-smooth-scroll" data-section="#home"><img src="images/logo.png" alt="">
+                                <a href="index.html#home" class="left brand-logo menu-smooth-scroll" data-section="#home"><img src="resources/images/logo.png" alt="">
                                 </a>
                                 <a href="index.html#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
                                 <ul class="right static-menu">
@@ -132,7 +132,7 @@
                                     <li class="mobile-profile">
                                         <div class="profile-inner">
                                             <div class="pp-container">
-                                                <img src="images/person.jpg" alt="">
+                                                <img src="resources/images/person.jpg" alt="">
                                             </div>
                                             <h3>John Doe</h3>
                                             <h5>Creative UI/UX Expert</h5>
@@ -225,7 +225,7 @@
 
                     <div class="col-sm-6 col-md-4">
                         <div class="person-img wow fadeIn">
-                            <img class="z-depth-1" src="images/person.jpg" alt="">
+                            <img class="z-depth-1" src="resources/images/person.jpg" alt="">
                         </div>
                     </div>
                     <!-- about me image -->
@@ -508,7 +508,7 @@
                                                         <div class="card-image waves-effect waves-block waves-light">
                                                             <h2 class="left-align card-title-top">January 2014 - Present</h2>
                                                             <div class="valign-wrapper card-img-wrap">
-                                                                <img class="activator" src="images/ghost_rider.jpg" alt="">
+                                                                <img class="activator" src="resources/images/ghost_rider.jpg" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
@@ -531,7 +531,7 @@
                                                         <div class="card-image waves-effect waves-block waves-light">
                                                             <h2 class="left-align card-title-top">January 2014 - Present</h2>
                                                             <div class="valign-wrapper card-img-wrap">
-                                                                <img class="activator" src="images/lion.jpg" alt="">
+                                                                <img class="activator" src="resources/images/lion.jpg" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
@@ -554,7 +554,7 @@
                                                         <div class="card-image waves-effect waves-block waves-light">
                                                             <h2 class="left-align card-title-top">January 2014 - Present</h2>
                                                             <div class="valign-wrapper card-img-wrap">
-                                                                <img class="activator" src="images/bull.jpg" alt="">
+                                                                <img class="activator" src="resources/images/bull.jpg" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
@@ -577,7 +577,7 @@
                                                         <div class="card-image waves-effect waves-block waves-light">
                                                             <h2 class="left-align card-title-top">January 2014 - Present</h2>
                                                             <div class="valign-wrapper card-img-wrap">
-                                                                <img class="activator" src="images/beakers.jpg" alt="">
+                                                                <img class="activator" src="resources/images/beakers.jpg" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
@@ -600,7 +600,7 @@
                                                         <div class="card-image waves-effect waves-block waves-light">
                                                             <h2 class="left-align card-title-top">January 2014 - Present</h2>
                                                             <div class="valign-wrapper card-img-wrap">
-                                                                <img class="activator" src="images/kid.jpg" alt="">
+                                                                <img class="activator" src="resources/images/kid.jpg" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
@@ -656,7 +656,7 @@
                                                         <div class="card-image waves-effect waves-block waves-light">
                                                             <h2 class="left-align card-title-top">20011 - 2012</h2>
                                                             <div class="card-img-wrap">
-                                                                <img class="activator" src="images/grad-cap.png" alt="">
+                                                                <img class="activator" src="resources/images/grad-cap.png" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
@@ -682,7 +682,7 @@
                                                         <div class="card-image waves-effect waves-block waves-light">
                                                             <h2 class="left-align card-title-top">2005 - 2007</h2>
                                                             <div class="card-img-wrap">
-                                                                <img class="activator" src="images/grad-cap.png" alt="">
+                                                                <img class="activator" src="resources/images/grad-cap.png" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
@@ -707,7 +707,7 @@
                                                         <div class="card-image waves-effect waves-block waves-light">
                                                             <h2 class="left-align card-title-top">2005 - 2007</h2>
                                                             <div class="card-img-wrap">
-                                                                <img class="activator" src="images/grad-cap.png" alt="">
+                                                                <img class="activator" src="resources/images/grad-cap.png" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
@@ -732,7 +732,7 @@
                                                         <div class="card-image waves-effect waves-block waves-light">
                                                             <h2 class="left-align card-title-top">1995 - 2005</h2>
                                                             <div class="card-img-wrap">
-                                                                <img class="activator" src="images/grad-cap.png" alt="">
+                                                                <img class="activator" src="resources/images/grad-cap.png" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
@@ -816,7 +816,7 @@
                             <li class="single-port-item category-1 category-3">
                                 <a href="index.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#"> <!-- Portfolio pop-up content-->
                                     <div class="protfolio-image">
-                                        <img src="images/portfolio/pf1.jpg" alt="portfolio"> <!-- portfolio thumbnail-->
+                                        <img src="resources/images/portfolio/pf1.jpg" alt="portfolio"> <!-- portfolio thumbnail-->
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
                                                 <h2 class="p-title">item name</h2>
@@ -832,7 +832,7 @@
                             <li class="single-port-item category-2 category-1">
                                 <a href="index.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
-                                        <img src="images/portfolio/pf2.jpg" alt="portfolio">
+                                        <img src="resources/images/portfolio/pf2.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
                                                 <h2 class="p-title">item name</h2>
@@ -848,7 +848,7 @@
                             <li class="single-port-item category-1 category-2">
                                 <a href="index.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
-                                        <img src="images/portfolio/pf3.jpg" alt="portfolio">
+                                        <img src="resources/images/portfolio/pf3.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
                                                 <h2 class="p-title">item name</h2>
@@ -864,7 +864,7 @@
                             <li class="single-port-item category-3">
                                 <a href="index.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
-                                        <img src="images/portfolio/pf4.jpg" alt="portfolio">
+                                        <img src="resources/images/portfolio/pf4.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
                                                 <h2 class="p-title">item name</h2>
@@ -880,7 +880,7 @@
                             <li class="single-port-item category-1 category-3 category-4">
                                 <a href="index.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
-                                        <img src="images/portfolio/pf5.jpg" alt="portfolio">
+                                        <img src="resources/images/portfolio/pf5.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
                                                 <h2 class="p-title">item name</h2>
@@ -896,7 +896,7 @@
                             <li class="single-port-item category-2 category-4">
                                 <a href="index.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
-                                        <img src="images/portfolio/pf6.jpg" alt="portfolio">
+                                        <img src="resources/images/portfolio/pf6.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
                                                 <h2 class="p-title">item name</h2>
@@ -939,7 +939,7 @@
                                                 <div class="card">
                                                     <div class="card-image waves-effect waves-block waves-light">
                                                         <div class="card-img-wrap">
-                                                            <img class="activator" src="images/t1.png" alt="">
+                                                            <img class="activator" src="resources/images/t1.png" alt="">
                                                         </div>
                                                     </div>
                                                     <div class="card-content">
@@ -961,7 +961,7 @@
                                                 <div class="card">
                                                     <div class="card-image waves-effect waves-block waves-light">
                                                         <div class="card-img-wrap">
-                                                            <img class="activator" src="images/t2.png" alt="">
+                                                            <img class="activator" src="resources/images/t2.png" alt="">
                                                         </div>
                                                     </div>
                                                     <div class="card-content">
@@ -983,7 +983,7 @@
                                                 <div class="card">
                                                     <div class="card-image waves-effect waves-block waves-light">
                                                         <div class="card-img-wrap">
-                                                            <img class="activator" src="images/t3.png" alt="">
+                                                            <img class="activator" src="resources/images/t3.png" alt="">
                                                         </div>
                                                     </div>
                                                     <div class="card-content">
@@ -1005,7 +1005,7 @@
                                                 <div class="card">
                                                     <div class="card-image waves-effect waves-block waves-light">
                                                         <div class="card-img-wrap">
-                                                            <img class="activator" src="images/t4.png" alt="">
+                                                            <img class="activator" src="resources/images/t4.png" alt="">
                                                         </div>
                                                     </div>
                                                     <div class="card-content">
@@ -1027,7 +1027,7 @@
                                                 <div class="card">
                                                     <div class="card-image waves-effect waves-block waves-light">
                                                         <div class="card-img-wrap">
-                                                            <img class="activator" src="images/t5.png" alt="">
+                                                            <img class="activator" src="resources/images/t5.png" alt="">
                                                         </div>
                                                     </div>
                                                     <div class="card-content">
@@ -1049,7 +1049,7 @@
                                                 <div class="card">
                                                     <div class="card-image waves-effect waves-block waves-light">
                                                         <div class="card-img-wrap">
-                                                            <img class="activator" src="images/t6.png" alt="">
+                                                            <img class="activator" src="resources/images/t6.png" alt="">
                                                         </div>
                                                     </div>
                                                     <div class="card-content">
@@ -1158,7 +1158,7 @@
                                                 <div class="card">
                                                     <div class="card-image waves-effect waves-block waves-light">
                                                         <div class="card-img-wrap">
-                                                            <img class="activator" src="images/client5.png" alt="">
+                                                            <img class="activator" src="resources/images/client5.png" alt="">
                                                             <p class="saying-about">Amazing theme, amazing code and especially amazing support! I Really love your work.</p>
                                                         </div>
                                                     </div>
@@ -1172,7 +1172,7 @@
                                                 <div class="card">
                                                     <div class="card-image waves-effect waves-block waves-light">
                                                         <div class="card-img-wrap">
-                                                            <img class="activator" src="images/client1.png" alt="">
+                                                            <img class="activator" src="resources/images/client1.png" alt="">
                                                             <p class="saying-about">Amazing theme, amazing code and especially amazing support! I Really love your work.</p>
                                                         </div>
                                                     </div>
@@ -1186,7 +1186,7 @@
                                                 <div class="card">
                                                     <div class="card-image waves-effect waves-block waves-light">
                                                         <div class="card-img-wrap">
-                                                            <img class="activator" src="images/client2.png" alt="">
+                                                            <img class="activator" src="resources/images/client2.png" alt="">
                                                             <p class="saying-about">Amazing theme, amazing code and especially amazing support ! I Really love your work.</p>
                                                         </div>
                                                     </div>
@@ -1200,7 +1200,7 @@
                                                 <div class="card">
                                                     <div class="card-image waves-effect waves-block waves-light">
                                                         <div class="card-img-wrap">
-                                                            <img class="activator" src="images/client3.png" alt="">
+                                                            <img class="activator" src="resources/images/client3.png" alt="">
                                                             <p class="saying-about">Amazing theme, amazing code and especially amazing support ! I Really love your work.</p>
                                                         </div>
                                                     </div>
@@ -1214,7 +1214,7 @@
                                                 <div class="card">
                                                     <div class="card-image waves-effect waves-block waves-light">
                                                         <div class="card-img-wrap">
-                                                            <img class="activator" src="images/client4.png" alt="">
+                                                            <img class="activator" src="resources/images/client4.png" alt="">
                                                             <p class="saying-about">Amazing theme, amazing code and especially amazing support ! I Really love your work.</p>
                                                         </div>
                                                     </div>
@@ -1259,7 +1259,7 @@
                                         <div class="card-image">
                                             <div class="card-img-wrap">
                                                 <div class="blog-post-thumb waves-effect waves-block waves-light">
-                                                    <a href="single.html"><img class="activator" src="images/blog1.jpg" alt="">
+                                                    <a href="single.html"><img class="activator" src="resources/images/blog1.jpg" alt="">
                                                     </a>
                                                 </div>
                                                 <div class="post-body">
@@ -1279,7 +1279,7 @@
                                         <div class="card-image">
                                             <div class="card-img-wrap">
                                                 <div class="blog-post-thumb waves-effect waves-block waves-light">
-                                                    <a href="single.html"><img class="activator" src="images/blog2.jpg" alt="">
+                                                    <a href="single.html"><img class="activator" src="resources/images/blog2.jpg" alt="">
                                                     </a>
                                                 </div>
                                                 <div class="post-body">
@@ -1299,7 +1299,7 @@
                                         <div class="card-image">
                                             <div class="card-img-wrap">
                                                 <div class="blog-post-thumb waves-effect waves-block waves-light">
-                                                    <a href="single.html"><img class="activator" src="images/blog3.jpg" alt="">
+                                                    <a href="single.html"><img class="activator" src="resources/images/blog3.jpg" alt="">
                                                     </a>
                                                 </div>
                                                 <div class="post-body">
@@ -1444,21 +1444,21 @@
 
 <!-- JavaScripts -->
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script src="assets/js/jquery.easing.1.3.js"></script>
-<script src="assets/js/detectmobilebrowser.js"></script>
-<script src="assets/js/isotope.pkgd.min.js"></script>
-<script src="assets/js/wow.min.js"></script>
-<script src="assets/js/waypoints.js"></script>
-<script src="assets/js/jquery.counterup.min.js"></script>
-<script src="assets/js/jquery.nicescroll.min.js"></script>
+<script src="resources/assets/js/jquery.easing.1.3.js"></script>
+<script src="resources/assets/js/detectmobilebrowser.js"></script>
+<script src="resources/assets/js/isotope.pkgd.min.js"></script>
+<script src="resources/assets/js/wow.min.js"></script>
+<script src="resources/assets/js/waypoints.js"></script>
+<script src="resources/assets/js/jquery.counterup.min.js"></script>
+<script src="resources/assets/js/jquery.nicescroll.min.js"></script>
 <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=true"></script>
-<script src="assets/js/gmaps.js"></script>
-<script src="assets/libs/owl-carousel/owl.carousel.min.js"></script>
-<script src="assets/libs/materialize/js/materialize.min.js"></script>
-<script src="assets/libs/jwplayer/jwplayer.js"></script>
-<script src="assets/libs/sweetalert/sweet-alert.min.js"></script>
-<script src="assets/js/common.js"></script>
-<script src="assets/js/main.js"></script>
+<script src="resources/assets/js/gmaps.js"></script>
+<script src="resources/assets/libs/owl-carousel/owl.carousel.min.js"></script>
+<script src="resources/assets/libs/materialize/js/materialize.min.js"></script>
+<script src="resources/assets/libs/jwplayer/jwplayer.js"></script>
+<script src="resources/assets/libs/sweetalert/sweet-alert.min.js"></script>
+<script src="resources/assets/js/common.js"></script>
+<script src="resources/assets/js/main.js"></script>
 </body>
 
 </html>
