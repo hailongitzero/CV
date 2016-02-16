@@ -579,7 +579,7 @@ $(document).ready(function($){
 		map.addMarker({
 			lat : 10.3793816,
 			lng : 107.119760,
-			icon: '../resources/images/marker-icon.png',
+			icon: 'resources/images/marker-icon.png',
 			infoWindow: {
 				content: '<p>Chu Hai Long Home - 227/6 Luu Chi Hieu st, W 10, Vung Tau</p>'
 			}

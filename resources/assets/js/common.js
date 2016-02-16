@@ -174,10 +174,10 @@ function setActiveStyleSheet(cssName, favName, logoName, pName){
 	var ficon = $('link[href*="assets/css/favicons/favicon"]');
 	var logo = $('img[src*="assets/css/logos/logo"]');
 	var person = $('img[src*="assets/css/persons/person"]');
-    scheme.attr('href','../resources/assets/css/colors/'+cssName+'.css');
-	ficon.attr('href','../resources/assets/css/favicons/'+favName+'.png');
-	logo.attr('src','../resources/assets/css/logos/'+logoName+'.png');
-	person.attr('src','../resources/assets/css/persons/'+pName+'.png');
+    scheme.attr('href','resources/assets/css/colors/'+cssName+'.css');
+	ficon.attr('href','resources/assets/css/favicons/'+favName+'.png');
+	logo.attr('src','resources/assets/css/logos/'+logoName+'.png');
+	person.attr('src','resources/assets/css/persons/'+pName+'.png');
 }
 
 

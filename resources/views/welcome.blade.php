@@ -485,7 +485,7 @@
                                                         <div class="card-image waves-effect waves-block waves-light">
                                                             <h2 class="left-align card-title-top">April 2013 - March 2014</h2>
                                                             <div class="valign-wrapper card-img-wrap">
-                                                                <img class="activator" src="resources/images/ghost_rider.jpg" alt="">
+                                                                <img class="activator" src="resources/images/vungtaurental.jpg" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
@@ -508,7 +508,7 @@
                                                         <div class="card-image waves-effect waves-block waves-light">
                                                             <h2 class="left-align card-title-top">December 2014 - Present</h2>
                                                             <div class="valign-wrapper card-img-wrap">
-                                                                <img class="activator" src="resources/images/lion.jpg" alt="">
+                                                                <img class="activator" src="resources/images/posco.jpg" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
@@ -531,7 +531,7 @@
                                                         <div class="card-image waves-effect waves-block waves-light">
                                                             <h2 class="left-align card-title-top">Freelance</h2>
                                                             <div class="valign-wrapper card-img-wrap">
-                                                                <img class="activator" src="resources/images/bull.jpg" alt="">
+                                                                <img class="activator" src="resources/images/vungchua.jpg" alt="">
                                                             </div>
                                                         </div>
                                                         <div class="card-content">
@@ -682,9 +682,9 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-1">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/git1.png" data-title="SVN and Git" data-content="Management project source code using SVN server and Github." data-demo-link="#">
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/git-1.jpg" data-title="SVN and Git" data-content="Management project source code using SVN server and Github." data-demo-link="#">
                                     <div class="protfolio-image">
-                                        <img src="resources/images/portfolio/git.png" alt="portfolio">
+                                        <img src="resources/images/portfolio/git.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
                                                 <h2 class="p-title">SVN, GIT</h2>
@@ -698,9 +698,9 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-1">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/seo.png" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/seo-1.jpg" data-title="Experience in SEO website" data-content="Experience in SEO website and design website with SEO standard." data-demo-link="#">
                                     <div class="protfolio-image">
-                                        <img src="resources/images/portfolio/seo.png" alt="portfolio">
+                                        <img src="resources/images/portfolio/seo.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
                                                 <h2 class="p-title">SEO</h2>
@@ -713,13 +713,13 @@
                             <!--/ single portfolio -->
 
                             <!-- Single Portfolio-->
-                            <li class="single-port-item category-1">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                            <li class="single-port-item category-2">
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/pf6.jpg" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
-                                        <img src="resources/images/portfolio/pf3.jpg" alt="portfolio">
+                                        <img src="resources/images/portfolio/pf6.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
-                                                <h2 class="p-title">Team Work</h2>
+                                                <h2 class="p-title">Book</h2>
                                             </div>
                                         </div>
                                         <div class="p-overlay"></div>
@@ -730,9 +730,9 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-2">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/football-1.jpg" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
-                                        <img src="resources/images/portfolio/pf4.jpg" alt="portfolio">
+                                        <img src="resources/images/portfolio/football.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
                                                 <h2 class="p-title">Football</h2>
@@ -746,9 +746,9 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-2">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/music-1.jpg" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
-                                        <img src="resources/images/portfolio/pf5.jpg" alt="portfolio">
+                                        <img src="resources/images/portfolio/music.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
                                                 <h2 class="p-title">Music</h2>
@@ -762,9 +762,9 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-2">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/movie-1.jpg" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
                                     <div class="protfolio-image">
-                                        <img src="resources/images/portfolio/pf6.jpg" alt="portfolio">
+                                        <img src="resources/images/portfolio/movie.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
                                             <div class="protfolio-content__inner">
                                                 <h2 class="p-title">Movie</h2>
