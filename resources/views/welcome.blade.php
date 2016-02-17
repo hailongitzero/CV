@@ -48,14 +48,14 @@
     <div class="content-switcher">
         <p class="brand-text">Color Options:</p>
         <ul class="header">
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color1', 'favicon1', 'logo1', 'person1'); return false;" class="button color switch" style="background-color:#00bcd4"></a></li>
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color2', 'favicon2', 'logo2', 'person2'); return false;" class="button color switch" style="background-color:#ff4081"></a></li>
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color3', 'favicon3', 'logo3', 'person3'); return false;" class="button color switch" style="background-color:#C043D5"></a></li>
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color4', 'favicon4', 'logo4', 'person4'); return false;" class="button color switch" style="background-color:#73D077"></a></li>
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color5', 'favicon5', 'logo5', 'person5'); return false;" class="button color switch" style="background-color:#FE7448"></a></li>
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color6', 'favicon6', 'logo6', 'person6'); return false;" class="button color switch" style="background-color:#1ABBAC"></a></li>
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color7', 'favicon7', 'logo7', 'person7'); return false;" class="button color switch" style="background-color:#EAB82E"></a></li>
-            <li><a href="materialx.html#" onclick="setActiveStyleSheet('color8', 'favicon8', 'logo8', 'person8'); return false;" class="button color switch" style="background-color:#799CAC"></a></li>
+            <li><a href="#" onclick="setActiveStyleSheet('color1', 'favicon1', 'logo1', 'person1'); return false;" class="button color switch" style="background-color:#00bcd4"></a></li>
+            <li><a href="#" onclick="setActiveStyleSheet('color2', 'favicon2', 'logo2', 'person2'); return false;" class="button color switch" style="background-color:#ff4081"></a></li>
+            <li><a href="#" onclick="setActiveStyleSheet('color3', 'favicon3', 'logo3', 'person3'); return false;" class="button color switch" style="background-color:#C043D5"></a></li>
+            <li><a href="#" onclick="setActiveStyleSheet('color4', 'favicon4', 'logo4', 'person4'); return false;" class="button color switch" style="background-color:#73D077"></a></li>
+            <li><a href="#" onclick="setActiveStyleSheet('color5', 'favicon5', 'logo5', 'person5'); return false;" class="button color switch" style="background-color:#FE7448"></a></li>
+            <li><a href="#" onclick="setActiveStyleSheet('color6', 'favicon6', 'logo6', 'person6'); return false;" class="button color switch" style="background-color:#1ABBAC"></a></li>
+            <li><a href="#" onclick="setActiveStyleSheet('color7', 'favicon7', 'logo7', 'person7'); return false;" class="button color switch" style="background-color:#EAB82E"></a></li>
+            <li><a href="#" onclick="setActiveStyleSheet('color8', 'favicon8', 'logo8', 'person8'); return false;" class="button color switch" style="background-color:#799CAC"></a></li>
         </ul>
         <p class="brand-text">Menu Options:</p>
         <div class="menu-select" title="The menu will display in all devices">
@@ -99,14 +99,14 @@
                     <div class="nav-inner">
                         <nav class="primary-nav">
                             <div class="clearfix nav-wrapper">
-                                <a href="materialx.html#home" class="left brand-logo menu-smooth-scroll" data-section="#home"><img src="resources/assets/css/logos/logo1.png" alt="">
+                                <a href="#home" class="left brand-logo menu-smooth-scroll" data-section="#home"><img src="resources/assets/css/logos/logo1.png" alt="">
                                 </a>
-                                <a href="materialx.html#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+                                <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
                                 <ul class="right static-menu">
                                     <li class="search-form-li">
                                         <a id="initSearchIcon" class=""><i class="mdi-action-search"></i> </a>
                                         <div class="search-form-wrap hide">
-                                            <form action="materialx.html#" class="">
+                                            <form action="#" class="">
                                                 <input type="search" class="search">
                                                 <button type="submit"><i class="mdi-action-search"></i>
                                                 </button>
@@ -114,7 +114,7 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <a class="dropdown-button blog-submenu-init" href="materialx.html#!" data-activates="dropdown1">
+                                        <a class="dropdown-button blog-submenu-init" href="#!" data-activates="dropdown1">
                                             <i class="mdi-navigation-more-vert right"></i>
                                         </a>
                                     </li>
@@ -133,18 +133,18 @@
                                     </li><!-- mini profile end-->
 
 
-                                    <li><a href="materialx.html#about" data-section="#about" class="menu-smooth-scroll"><i class="fa fa-user fa-fw"></i>About Me</a>
+                                    <li><a href="#about" data-section="#about" class="menu-smooth-scroll"><i class="fa fa-user fa-fw"></i>About Me</a>
                                     </li>
-                                    <li><a href="materialx.html#resume" data-section="#resume" class="menu-smooth-scroll"><i class="fa fa-file-text fa-fw"></i>Resume</a>
+                                    <li><a href="#resume" data-section="#resume" class="menu-smooth-scroll"><i class="fa fa-file-text fa-fw"></i>Resume</a>
                                     </li>
-                                    <li><a href="materialx.html#blog" data-section="#blog" class="menu-smooth-scroll"><i class="fa fa-pencil fa-fw"></i>Blog</a>
+                                    <li><a href="#blog" data-section="#blog" class="menu-smooth-scroll"><i class="fa fa-pencil fa-fw"></i>Blog</a>
                                     </li>
-                                    <li><a href="materialx.html#contact" data-section="#contact" class="menu-smooth-scroll"><i class="fa fa-paper-plane fa-fw"></i>Contact</a>
+                                    <li><a href="#contact" data-section="#contact" class="menu-smooth-scroll"><i class="fa fa-paper-plane fa-fw"></i>Contact</a>
                                     </li>
                                 </ul>
                                 <ul id="dropdown1" class="inline-menu submenu-ul dropdown-content">
                                     <li>Home</li>
-                                    <li><a href="blog.html">Blog</a>
+                                    <li><a href="blog">Blog</a>
                                     </li>
                                 </ul>
 
@@ -168,7 +168,7 @@
                             <div class="center-align home-content">
                                 <h1 class="home-title">HI! I'm <span>Chu Hai Long</span></h1>
                                 <h2 class="home-subtitle">Software Developer from Vung Tau - Viet Nam</h2>
-                                <a href="materialx.html#contact" class="hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Hire Me <i class="mdi-content-send left"></i>
+                                <a href="#contact" class="hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Hire Me <i class="mdi-content-send left"></i>
                                 </a>
                             </div>
                         </div>
@@ -179,7 +179,7 @@
             <div class="section-call-to-area">
                 <div class="container">
                     <div class="row">
-                        <a href="materialx.html#about" class="btn-floating btn-large button-middle call-to-about section-call-to-btn animated btn-up btn-hidden" data-section="#about">
+                        <a href="#about" class="btn-floating btn-large button-middle call-to-about section-call-to-btn animated btn-up btn-hidden" data-section="#about">
                             <i class="mdi-navigation-expand-more"></i>
                         </a>
                     </div>
@@ -201,7 +201,7 @@
                             <h3 class="about-subtitle">My Story</h3>
                             <p>Hello, I'm a Software Developer from Vung Tau, Viet Nam. I hold a HDSE degree of Software Developer from the HaNoi Aptech Computer Education. <br />
                                 I working at Phu My Industrial(Ba Ria - Vung Tau), my current position is develop and maintenance Quality Control system of Posco SS-Vina Co.,ltd.</p>
-                            <a class="waves-effect waves-light btn-large brand-bg white-text"><i class="mdi-content-archive left"></i> Download Resume</a>
+                            <a href="https://drive.google.com/file/d/0B5ESEyeyXayxR3p0LURrN1cwREk/view" target="_blank" class="waves-effect waves-light btn-large brand-bg white-text"><i class="mdi-content-archive left"></i> Download Resume</a>
                         </div>
                     </div>
                     <!-- about me description -->
@@ -632,11 +632,11 @@
                         <div class="col-sm-12">
                             <h2 class="title">Another</h2>
                             <ul class="inline-menu clearfix portfolio-category" id="portfolio-msnry-sort">
-                                <li class="active"><a href="materialx.html#" data-target="*">All</a>
+                                <li class="active"><a href="#" data-target="*">All</a>
                                 </li>
-                                <li><a href="materialx.html#" data-target=".category-1">Another Skill</a>
+                                <li><a href="#" data-target=".category-1">Another Skill</a>
                                 </li>
-                                <li><a href="materialx.html#" data-target=".category-2">Hobbies</a>
+                                <li><a href="#" data-target=".category-2">Hobbies</a>
                                 </li>
                             </ul>
                         </div>
@@ -653,8 +653,8 @@
             </div>
 
             <div class="modal-footer">
-                {{--<a href="materialx.html#" target="_blank" class="waves-effect btn-flat brand-text modal-action">Live Demo</a>--}}
-                <a href="materialx.html#" class="waves-effect btn-flat brand-text modal-action modal-close">cancel</a>
+                {{--<a href="#" target="_blank" class="waves-effect btn-flat brand-text modal-action">Live Demo</a>--}}
+                <a href="#" class="waves-effect btn-flat brand-text modal-action modal-close">cancel</a>
             </div>
         </div>
 
@@ -666,7 +666,7 @@
 
                             <!-- Office -->
                             <li class="single-port-item category-1">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/office1.png" data-title="Microsoft Office skill" data-content="Good skill at Microsoft Work, Excel, Power Point..." data-demo-link="#"> <!-- Portfolio pop-up content-->
+                                <a href="#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/office1.png" data-title="Microsoft Office skill" data-content="Good skill at Microsoft Work, Excel, Power Point..." data-demo-link="#"> <!-- Portfolio pop-up content-->
                                     <div class="protfolio-image">
                                         <img src="resources/images/portfolio/office.png" alt="portfolio"> <!-- portfolio thumbnail-->
                                         <div class="protfolio-content waves-effect waves-block waves-light">
@@ -682,7 +682,7 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-1">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/git-1.jpg" data-title="SVN and Git" data-content="Management project source code using SVN server and Github." data-demo-link="#">
+                                <a href="#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/git-1.jpg" data-title="SVN and Git" data-content="Management project source code using SVN server and Github." data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="resources/images/portfolio/git.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
@@ -698,7 +698,7 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-1">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/seo-1.jpg" data-title="Experience in SEO website" data-content="Experience in SEO website and design website with SEO standard." data-demo-link="#">
+                                <a href="#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/seo-1.jpg" data-title="Experience in SEO website" data-content="Experience in SEO website and design website with SEO standard." data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="resources/images/portfolio/seo.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
@@ -714,7 +714,7 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-2">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/pf6.jpg" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                                <a href="#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/pf6.jpg" data-title="Book" data-content="Books is treasure invaluable of humanity." data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="resources/images/portfolio/pf6.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
@@ -730,7 +730,7 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-2">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/football-1.jpg" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                                <a href="#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/football-1.jpg" data-title="Football" data-content="" data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="resources/images/portfolio/football.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
@@ -746,7 +746,7 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-2">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/music-1.jpg" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                                <a href="#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/music-1.jpg" data-title="Music" data-content="Music is the universal language of mankind." data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="resources/images/portfolio/music.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
@@ -762,7 +762,7 @@
 
                             <!-- Single Portfolio-->
                             <li class="single-port-item category-2">
-                                <a href="materialx.html#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/movie-1.jpg" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#">
+                                <a href="#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="resources/images/portfolio/movie-1.jpg" data-title="Movie" data-content="" data-demo-link="#">
                                     <div class="protfolio-image">
                                         <img src="resources/images/portfolio/movie.jpg" alt="portfolio">
                                         <div class="protfolio-content waves-effect waves-block waves-light">
@@ -778,7 +778,7 @@
 
                         </ul>
                         <!-- portfolio load more button-->
-                        <a id="portfolio-item-loader" href="materialx.html#" class="btn-floating btn-large waves-effect waves-light brand-bg"><i class="mdi-content-add"></i></a>
+                        <a id="portfolio-item-loader" href="#" class="btn-floating btn-large waves-effect waves-light brand-bg"><i class="mdi-content-add"></i></a>
                     </div>
                 </div>
             </div>
@@ -786,93 +786,93 @@
     </section>
     <!-- #portfolio Section end -->
 
-    <!-- Blog Section end -->
-    <section id="blog" class="scroll-section root-sec grey lighten-5 padd-tb-120 blog-wrap">
-        <div class="container">
-            <div class="row">
-                <div class="blog-inner">
-                    <div class="col-sm-12 card-box-wrap">
-                        <div class="row">
-                            <div class="clearfix section-head blog-text">
-                                <div class="col-sm-10">
-                                    <h2 class="title">Blog</h2>
-                                    <p class="regular-text">A Web page that serves as a publicly accessible personal journal for an individual. Typically updated daily, blogs often reflect the personality of the author.</p>
-                                </div>
-                            </div>
-                            <div class="clearfix card-element-wrapper" id="blog-posts">
-                                <article class="col-sm-6 col-md-4 single-card-box single-post">
-                                    <div class="card wow fadeInUpSmall" data-wow-duration=".7s">
-                                        <div class="card-image">
-                                            <div class="card-img-wrap">
-                                                <div class="blog-post-thumb waves-effect waves-block waves-light">
-                                                    <a href="single.html"><img class="activator" src="resources/images/blog1.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="post-body">
-                                                    <a href="single.html" class="post-title-link brand-text"><h2 class="post-title">Awesome Post Title</h2></a>
-                                                    <p class="post-content">In consectetuer turpis ut velit. Sed lectus. Ut varius tincidunt libero. Vivamus euismod mauris. Vestibulum fringilla pede sit amet augue. Ut varius tincidunt libero. Pellentesque dapibus hendrerit tortor. </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="clearfix card-content">
-                                            <a href="materialx.html#" class="left js-favorite" title="Love this"><i class="mdi-action-favorite"></i><span class="numb">15</span></a>
-                                            <a href="single.html" class="brand-text right waves-effect">Read More</a>
-                                        </div>
-                                    </div>
-                                </article> <!-- ./single blog post end -->
-                                <article class="col-sm-6 col-md-4  single-card-box single-post">
-                                    <div class="card wow fadeInUpSmall" data-wow-delay=".2s" data-wow-duration=".7s">
-                                        <div class="card-image">
-                                            <div class="card-img-wrap">
-                                                <div class="blog-post-thumb waves-effect waves-block waves-light">
-                                                    <a href="single.html"><img class="activator" src="resources/images/blog2.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="post-body">
-                                                    <a href="single.html" class="post-title-link brand-text"><h2 class="post-title">An Image Post</h2></a>
-                                                    <p class="post-content">In consectetuer turpis ut velit. Sed lectus. Ut varius tincidunt libero. Vivamus euismod mauris. Vestibulum fringilla pede sit amet augue. Ut varius tincidunt libero. Pellentesque dapibus hendrerit tortor. </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="clearfix card-content">
-                                            <a href="materialx.html#" class="left js-favorite active" title="Love this"><i class="mdi-action-favorite"></i><span class="numb">23</span></a>
-                                            <a href="single.html" class="brand-text right waves-effect">Read More</a>
-                                        </div>
-                                    </div>
-                                </article> <!-- ./single blog post end -->
-                                <article class="col-sm-6 col-md-4 single-card-box single-post">
-                                    <div class="card wow fadeInUpSmall" data-wow-delay=".4s" data-wow-duration=".7s">
-                                        <div class="card-image">
-                                            <div class="card-img-wrap">
-                                                <div class="blog-post-thumb waves-effect waves-block waves-light">
-                                                    <a href="single.html"><img class="activator" src="resources/images/blog3.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="post-body">
-                                                    <a href="single.html" class="post-title-link brand-text"><h2 class="post-title">Another Image Post</h2></a>
-                                                    <p class="post-content">In consectetuer turpis ut velit. Sed lectus. Ut varius tincidunt libero. Vivamus euismod mauris. Vestibulum fringilla pede sit amet augue. Ut varius tincidunt libero. Pellentesque dapibus hendrerit tortor. </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="clearfix card-content">
-                                            <a href="materialx.html#" class="left js-favorite" title="Love this"><i class="mdi-action-favorite"></i><span class="numb">17</span></a>
-                                            <a href="single.html" class="brand-text right waves-effect">Read More</a>
-                                        </div>
-                                    </div>
-                                </article> <!-- ./single blog post end -->
-                            </div>
-                            <div class="clearfix left-align">
-                                <div class="col-sm-12">
-                                    <a href="blog.html" class="waves-effect waves-light btn-large load-more">See More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> <!-- ./container -->
-    </section>
-    <!-- #blog Section end -->
+    {{--<!-- Blog Section end -->--}}
+    {{--<section id="blog" class="scroll-section root-sec grey lighten-5 padd-tb-120 blog-wrap">--}}
+        {{--<div class="container">--}}
+            {{--<div class="row">--}}
+                {{--<div class="blog-inner">--}}
+                    {{--<div class="col-sm-12 card-box-wrap">--}}
+                        {{--<div class="row">--}}
+                            {{--<div class="clearfix section-head blog-text">--}}
+                                {{--<div class="col-sm-10">--}}
+                                    {{--<h2 class="title">Blog</h2>--}}
+                                    {{--<p class="regular-text">A Web page that serves as a publicly accessible personal journal for an individual. Typically updated daily, blogs often reflect the personality of the author.</p>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                            {{--<div class="clearfix card-element-wrapper" id="blog-posts">--}}
+                                {{--<article class="col-sm-6 col-md-4 single-card-box single-post">--}}
+                                    {{--<div class="card wow fadeInUpSmall" data-wow-duration=".7s">--}}
+                                        {{--<div class="card-image">--}}
+                                            {{--<div class="card-img-wrap">--}}
+                                                {{--<div class="blog-post-thumb waves-effect waves-block waves-light">--}}
+                                                    {{--<a href="single.html"><img class="activator" src="resources/images/blog1.jpg" alt="">--}}
+                                                    {{--</a>--}}
+                                                {{--</div>--}}
+                                                {{--<div class="post-body">--}}
+                                                    {{--<a href="single.html" class="post-title-link brand-text"><h2 class="post-title">Awesome Post Title</h2></a>--}}
+                                                    {{--<p class="post-content">In consectetuer turpis ut velit. Sed lectus. Ut varius tincidunt libero. Vivamus euismod mauris. Vestibulum fringilla pede sit amet augue. Ut varius tincidunt libero. Pellentesque dapibus hendrerit tortor. </p>--}}
+                                                {{--</div>--}}
+                                            {{--</div>--}}
+                                        {{--</div>--}}
+                                        {{--<div class="clearfix card-content">--}}
+                                            {{--<a href="#" class="left js-favorite" title="Love this"><i class="mdi-action-favorite"></i><span class="numb">15</span></a>--}}
+                                            {{--<a href="single.html" class="brand-text right waves-effect">Read More</a>--}}
+                                        {{--</div>--}}
+                                    {{--</div>--}}
+                                {{--</article> <!-- ./single blog post end -->--}}
+                                {{--<article class="col-sm-6 col-md-4  single-card-box single-post">--}}
+                                    {{--<div class="card wow fadeInUpSmall" data-wow-delay=".2s" data-wow-duration=".7s">--}}
+                                        {{--<div class="card-image">--}}
+                                            {{--<div class="card-img-wrap">--}}
+                                                {{--<div class="blog-post-thumb waves-effect waves-block waves-light">--}}
+                                                    {{--<a href="single.html"><img class="activator" src="resources/images/blog2.jpg" alt="">--}}
+                                                    {{--</a>--}}
+                                                {{--</div>--}}
+                                                {{--<div class="post-body">--}}
+                                                    {{--<a href="single.html" class="post-title-link brand-text"><h2 class="post-title">An Image Post</h2></a>--}}
+                                                    {{--<p class="post-content">In consectetuer turpis ut velit. Sed lectus. Ut varius tincidunt libero. Vivamus euismod mauris. Vestibulum fringilla pede sit amet augue. Ut varius tincidunt libero. Pellentesque dapibus hendrerit tortor. </p>--}}
+                                                {{--</div>--}}
+                                            {{--</div>--}}
+                                        {{--</div>--}}
+                                        {{--<div class="clearfix card-content">--}}
+                                            {{--<a href="#" class="left js-favorite active" title="Love this"><i class="mdi-action-favorite"></i><span class="numb">23</span></a>--}}
+                                            {{--<a href="single.html" class="brand-text right waves-effect">Read More</a>--}}
+                                        {{--</div>--}}
+                                    {{--</div>--}}
+                                {{--</article> <!-- ./single blog post end -->--}}
+                                {{--<article class="col-sm-6 col-md-4 single-card-box single-post">--}}
+                                    {{--<div class="card wow fadeInUpSmall" data-wow-delay=".4s" data-wow-duration=".7s">--}}
+                                        {{--<div class="card-image">--}}
+                                            {{--<div class="card-img-wrap">--}}
+                                                {{--<div class="blog-post-thumb waves-effect waves-block waves-light">--}}
+                                                    {{--<a href="single.html"><img class="activator" src="resources/images/blog3.jpg" alt="">--}}
+                                                    {{--</a>--}}
+                                                {{--</div>--}}
+                                                {{--<div class="post-body">--}}
+                                                    {{--<a href="single.html" class="post-title-link brand-text"><h2 class="post-title">Another Image Post</h2></a>--}}
+                                                    {{--<p class="post-content">In consectetuer turpis ut velit. Sed lectus. Ut varius tincidunt libero. Vivamus euismod mauris. Vestibulum fringilla pede sit amet augue. Ut varius tincidunt libero. Pellentesque dapibus hendrerit tortor. </p>--}}
+                                                {{--</div>--}}
+                                            {{--</div>--}}
+                                        {{--</div>--}}
+                                        {{--<div class="clearfix card-content">--}}
+                                            {{--<a href="#" class="left js-favorite" title="Love this"><i class="mdi-action-favorite"></i><span class="numb">17</span></a>--}}
+                                            {{--<a href="single.html" class="brand-text right waves-effect">Read More</a>--}}
+                                        {{--</div>--}}
+                                    {{--</div>--}}
+                                {{--</article> <!-- ./single blog post end -->--}}
+                            {{--</div>--}}
+                            {{--<div class="clearfix left-align">--}}
+                                {{--<div class="col-sm-12">--}}
+                                    {{--<a href="blog.html" class="waves-effect waves-light btn-large load-more">See More</a>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+        {{--</div> <!-- ./container -->--}}
+    {{--</section>--}}
+    {{--<!-- #blog Section end -->--}}
 
     <!-- Contact Section end -->
     <section id="contact" class="scroll-section root-sec brand-bg padd-tb-120 contact-wrap">
@@ -890,7 +890,7 @@
                                         </li>
                                         <li><a href="materialx.html">chuhailong89@gmail.com</a>
                                         </li>
-                                        <li><a href="materialx.html">www.chuhailong.tk</a>
+                                        <li><a href="materialx.html">www.chuhailong.cf</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -908,7 +908,7 @@
                                 <!-- Contact Form start -->
                                 <div class="col-sm-5">
                                     <div class="clearfix card-panel grey lighten-5 cform-wrapper">
-                                        <form action="materialx.html#" id="contactForm" novalidate>
+                                        <form action="#" id="contactForm" novalidate>
                                             <div class="input-field">
                                                 <input id="contact_name" type="text" name="contactName" class="validate input-box">
                                                 <label for="contact_name" class="input-label">Name</label>
@@ -945,7 +945,7 @@
         <div class="section-call-to-area">
             <div class="container">
                 <div class="row">
-                    <a href="materialx.html#home" class="btn-floating btn-large button-middle call-to-home section-call-to-btn animated btn-up btn-hidden" data-section="#home">
+                    <a href="#home" class="btn-floating btn-large button-middle call-to-home section-call-to-btn animated btn-up btn-hidden" data-section="#home">
                         <i class="mdi-navigation-expand-less"></i>
                     </a>
                 </div>
@@ -961,9 +961,9 @@
                 <div class="col-sm-12">
                     <div class="clearfix footer-inner">
                         <ul class="left social-icons">
-                            <li><a href="materialx.html#" class="tooltips tooltipped facebook" data-position="top" data-delay="50" data-tooltip="Facebook"><i class="fa fa-facebook"></i></a>
-                            <li><a href="materialx.html#" class="tooltips tooltipped twitter" data-position="top" data-delay="50" data-tooltip="Twitter"><i class="fa fa-twitter"></i></a>
-                            <li><a href="materialx.html#" class="tooltips tooltipped google-plus" data-position="top" data-delay="50" data-tooltip="Google Plus"><i class="fa fa-google-plus"></i></a>
+                            <li><a href="https://www.facebook.com/ChuHaiLong" class="tooltips tooltipped facebook" data-position="top" data-delay="50" data-tooltip="Facebook"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://twitter.com/ChuChuhailong89" class="tooltips tooltipped twitter" data-position="top" data-delay="50" data-tooltip="Twitter"><i class="fa fa-twitter"></i></a>
+                            <li><a href="https://plus.google.com/+LongChuHai/" class="tooltips tooltipped google-plus" data-position="top" data-delay="50" data-tooltip="Google Plus"><i class="fa fa-google-plus"></i></a>
                         </ul> <!-- ./social icons end -->
                         <div class="right copyright">
                             <p>ChuHaiLong &copy; All Rights Reserved</p>

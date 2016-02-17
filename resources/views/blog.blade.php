@@ -88,14 +88,14 @@
                     <div class="nav-inner">
                         <nav class="primary-nav">
                             <div class="clearfix nav-wrapper">
-                                <a href="blog.html#!" class="left brand-logo"><img src="resources/assets/css/logos/logo1.png" alt="">
+                                <a href="index" class="left brand-logo"><img src="resources/assets/css/logos/logo1.png" alt="">
                                 </a>
-                                <a href="blog.html#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+                                <a href="" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
                                 <ul class="right static-menu">
                                     <li class="search-form-li">
                                         <a id="initSearchIcon" class=""><i class="mdi-action-search"></i> </a>
                                         <div class="search-form-wrap hide">
-                                            <form action="blog.html#" class="">
+                                            <form action="" class="">
                                                 <input type="search" class="search">
                                                 <button type="submit"><i class="mdi-action-search"></i>
                                                 </button>
@@ -103,7 +103,7 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <a class="dropdown-button blog-submenu-init" href="blog.html#!" data-activates="dropdown1">
+                                        <a class="dropdown-button blog-submenu-init" href="" data-activates="dropdown1">
                                             <i class="mdi-navigation-more-vert right"></i>
                                         </a>
                                     </li>
@@ -121,21 +121,21 @@
                                         </div>
                                     </li><!-- mini profile end-->
 
-                                    <li><a href="index.html"><i class="fa fa-home fa-fw"></i>Home</a>
+                                    <li><a href="index"><i class="fa fa-home fa-fw"></i>Home</a>
                                     </li>
-                                    <li><a href="blog-with-sidebar.html"><i class="fa fa-pencil fa-fw"></i>Blog with Sidebar</a>
+                                    <li><a href="blog-sidebar"><i class="fa fa-pencil fa-fw"></i>Blog with Sidebar</a>
                                     </li>
-                                    <li><a href="blog.html"><i class="fa fa-pencil fa-fw"></i>Blog Full width</a>
+                                    <li><a href="blog"><i class="fa fa-pencil fa-fw"></i>Blog Full width</a>
                                     </li>
-                                    <li><a href="single.html"><i class="fa fa-pencil fa-fw"></i>Single Blog</a>
+                                    <li><a href="single"><i class="fa fa-pencil fa-fw"></i>Single Blog</a>
                                     </li>
                                 </ul>
                                 <ul id="dropdown1" class="inline-menu submenu-ul dropdown-content">
-                                    <li><a href="blog.html#">Demo link 1</a>
+                                    <li><a href="blog">Demo link 1</a>
                                     </li>
-                                    <li><a href="blog.html#">Demo link 2</a>
+                                    <li><a href="blog">Demo link 2</a>
                                     </li>
-                                    <li><a href="blog.html#">Demo link 3</a>
+                                    <li><a href="blog">Demo link 3</a>
                                     </li>
                                 </ul>
                             </div>
@@ -170,18 +170,18 @@
                             <div class="card-image">
                                 <div class="card-img-wrap">
                                     <div class="blog-post-thumb waves-effect waves-block waves-light">
-                                        <a href="single.html"><img class="activator" src="resources/images/blog1.jpg" alt="">
+                                        <a href="single"><img class="activator" src="resources/images/blog1.jpg" alt="">
                                         </a>
                                     </div>
                                     <div class="post-body">
-                                        <a href="single.html" class="post-title-link brand-text"><h2 class="post-title">The Image Post</h2></a>
+                                        <a href="single" class="post-title-link brand-text"><h2 class="post-title">The Image Post</h2></a>
                                         <p class="post-content">In consectetuer turpis ut velit. Sed lectus. Ut varius tincidunt libero. Vivamus euismod mauris. Vestibulum fringilla pede sit amet augue. Ut varius tincidunt libero. Pellentesque dapibus hendrerit tortor. </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="clearfix card-content">
-                                <a href="blog.html#" class="left js-favorite" title="Love this"><i class="mdi-action-favorite"></i><span class="numb">23</span></a>
-                                <a href="single.html" class="brand-text right waves-effect">read more</a>
+                                <a href="blog" class="left js-favorite" title="Love this"><i class="mdi-action-favorite"></i><span class="numb">23</span></a>
+                                <a href="single" class="brand-text right waves-effect">read more</a>
                             </div>
                         </div>
                     </article> <!--./single blog post-->
@@ -194,7 +194,7 @@
                                         <div class="player" id="audio1" data-file-sec="audios/audio.mp3" data-height="40"></div>
                                     </div>
                                     <div class="post-body">
-                                        <a href="single.html" class="post-title-link brand-text"><h2 class="post-title">The Audio Post</h2></a>
+                                        <a href="single" class="post-title-link brand-text"><h2 class="post-title">The Audio Post</h2></a>
                                         <p class="post-content">In consectetuer turpis ut velit. Sed lectus. Ut varius tincidunt libero. Vivamus euismod mauris. Vestibulum fringilla pede sit amet augue. Ut varius tincidunt libero. Pellentesque dapibus hendrerit tortor. </p>
                                     </div>
                                 </div>
